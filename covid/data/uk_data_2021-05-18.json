@@ -1,0 +1,3674 @@
+[
+  {
+    "date": "2021-05-18",
+    "total_cases": 4450392,
+    "daily_new_cases": 2412,
+    "currently_infected": 40754,
+    "total_deaths": 127691,
+    "daily_new_deaths": 7
+  },
+  {
+    "date": "2021-05-17",
+    "total_cases": 4447980,
+    "daily_new_cases": 1979,
+    "currently_infected": 41029,
+    "total_deaths": 127684,
+    "daily_new_deaths": 5
+  },
+  {
+    "date": "2021-05-16",
+    "total_cases": 4446001,
+    "daily_new_cases": 1926,
+    "currently_infected": 41115,
+    "total_deaths": 127679,
+    "daily_new_deaths": 4
+  },
+  {
+    "date": "2021-05-15",
+    "total_cases": 4444075,
+    "daily_new_cases": 2027,
+    "currently_infected": 40898,
+    "total_deaths": 127675,
+    "daily_new_deaths": 7
+  },
+  {
+    "date": "2021-05-14",
+    "total_cases": 4442048,
+    "daily_new_cases": 2193,
+    "currently_infected": 40939,
+    "total_deaths": 127668,
+    "daily_new_deaths": 17
+  },
+  {
+    "date": "2021-05-13",
+    "total_cases": 4439855,
+    "daily_new_cases": 2657,
+    "currently_infected": 41424,
+    "total_deaths": 127651,
+    "daily_new_deaths": 11
+  },
+  {
+    "date": "2021-05-12",
+    "total_cases": 4437198,
+    "daily_new_cases": 2248,
+    "currently_infected": 41496,
+    "total_deaths": 127640,
+    "daily_new_deaths": 11
+  },
+  {
+    "date": "2021-05-11",
+    "total_cases": 4434950,
+    "daily_new_cases": 2437,
+    "currently_infected": 41643,
+    "total_deaths": 127629,
+    "daily_new_deaths": 20
+  },
+  {
+    "date": "2021-05-10",
+    "total_cases": 4432513,
+    "daily_new_cases": 2322,
+    "currently_infected": 41730,
+    "total_deaths": 127609,
+    "daily_new_deaths": 4
+  },
+  {
+    "date": "2021-05-09",
+    "total_cases": 4430191,
+    "daily_new_cases": 1744,
+    "currently_infected": 42371,
+    "total_deaths": 127605,
+    "daily_new_deaths": 2
+  },
+  {
+    "date": "2021-05-08",
+    "total_cases": 4428447,
+    "daily_new_cases": 2017,
+    "currently_infected": 42509,
+    "total_deaths": 127603,
+    "daily_new_deaths": 5
+  },
+  {
+    "date": "2021-05-07",
+    "total_cases": 4426430,
+    "daily_new_cases": 2453,
+    "currently_infected": 42698,
+    "total_deaths": 127598,
+    "daily_new_deaths": 15
+  },
+  {
+    "date": "2021-05-06",
+    "total_cases": 4423977,
+    "daily_new_cases": 2574,
+    "currently_infected": 48163,
+    "total_deaths": 127583,
+    "daily_new_deaths": 13
+  },
+  {
+    "date": "2021-05-05",
+    "total_cases": 4421403,
+    "daily_new_cases": 2112,
+    "currently_infected": 48061,
+    "total_deaths": 127570,
+    "daily_new_deaths": 27
+  },
+  {
+    "date": "2021-05-04",
+    "total_cases": 4419291,
+    "daily_new_cases": 1917,
+    "currently_infected": 49516,
+    "total_deaths": 127543,
+    "daily_new_deaths": 4
+  },
+  {
+    "date": "2021-05-03",
+    "total_cases": 4417374,
+    "daily_new_cases": 1625,
+    "currently_infected": 49329,
+    "total_deaths": 127539,
+    "daily_new_deaths": 1
+  },
+  {
+    "date": "2021-05-02",
+    "total_cases": 4415749,
+    "daily_new_cases": 1646,
+    "currently_infected": 50293,
+    "total_deaths": 127538,
+    "daily_new_deaths": 14
+  },
+  {
+    "date": "2021-05-01",
+    "total_cases": 4414103,
+    "daily_new_cases": 1879,
+    "currently_infected": 51792,
+    "total_deaths": 127524,
+    "daily_new_deaths": 7
+  },
+  {
+    "date": "2021-04-30",
+    "total_cases": 4412224,
+    "daily_new_cases": 2346,
+    "currently_infected": 52936,
+    "total_deaths": 127517,
+    "daily_new_deaths": 15
+  },
+  {
+    "date": "2021-04-29",
+    "total_cases": 4409878,
+    "daily_new_cases": 2409,
+    "currently_infected": 60750,
+    "total_deaths": 127502,
+    "daily_new_deaths": 22
+  },
+  {
+    "date": "2021-04-28",
+    "total_cases": 4407469,
+    "daily_new_cases": 2135,
+    "currently_infected": 61751,
+    "total_deaths": 127480,
+    "daily_new_deaths": 29
+  },
+  {
+    "date": "2021-04-27",
+    "total_cases": 4405334,
+    "daily_new_cases": 2647,
+    "currently_infected": 63024,
+    "total_deaths": 127451,
+    "daily_new_deaths": 17
+  },
+  {
+    "date": "2021-04-26",
+    "total_cases": 4402687,
+    "daily_new_cases": 2035,
+    "currently_infected": 64858,
+    "total_deaths": 127434,
+    "daily_new_deaths": 6
+  },
+  {
+    "date": "2021-04-25",
+    "total_cases": 4400652,
+    "daily_new_cases": 1688,
+    "currently_infected": 66863,
+    "total_deaths": 127428,
+    "daily_new_deaths": 11
+  },
+  {
+    "date": "2021-04-24",
+    "total_cases": 4398964,
+    "daily_new_cases": 2032,
+    "currently_infected": 82393,
+    "total_deaths": 127417,
+    "daily_new_deaths": 32
+  },
+  {
+    "date": "2021-04-23",
+    "total_cases": 4396932,
+    "daily_new_cases": 2640,
+    "currently_infected": 85964,
+    "total_deaths": 127385,
+    "daily_new_deaths": 40
+  },
+  {
+    "date": "2021-04-22",
+    "total_cases": 4394292,
+    "daily_new_cases": 2690,
+    "currently_infected": 89554,
+    "total_deaths": 127345,
+    "daily_new_deaths": 18
+  },
+  {
+    "date": "2021-04-21",
+    "total_cases": 4391602,
+    "daily_new_cases": 2361,
+    "currently_infected": 92455,
+    "total_deaths": 127327,
+    "daily_new_deaths": 22
+  },
+  {
+    "date": "2021-04-20",
+    "total_cases": 4389241,
+    "daily_new_cases": 2488,
+    "currently_infected": 95171,
+    "total_deaths": 127305,
+    "daily_new_deaths": 31
+  },
+  {
+    "date": "2021-04-19",
+    "total_cases": 4386753,
+    "daily_new_cases": 2921,
+    "currently_infected": 98042,
+    "total_deaths": 127274,
+    "daily_new_deaths": 4
+  },
+  {
+    "date": "2021-04-18",
+    "total_cases": 4383832,
+    "daily_new_cases": 1855,
+    "currently_infected": 100417,
+    "total_deaths": 127270,
+    "daily_new_deaths": 10
+  },
+  {
+    "date": "2021-04-17",
+    "total_cases": 4381977,
+    "daily_new_cases": 2175,
+    "currently_infected": 106868,
+    "total_deaths": 127260,
+    "daily_new_deaths": 35
+  },
+  {
+    "date": "2021-04-16",
+    "total_cases": 4379802,
+    "daily_new_cases": 2717,
+    "currently_infected": 113024,
+    "total_deaths": 127225,
+    "daily_new_deaths": 34
+  },
+  {
+    "date": "2021-04-15",
+    "total_cases": 4377085,
+    "daily_new_cases": 2634,
+    "currently_infected": 116058,
+    "total_deaths": 127191,
+    "daily_new_deaths": 30
+  },
+  {
+    "date": "2021-04-14",
+    "total_cases": 4374451,
+    "daily_new_cases": 2467,
+    "currently_infected": 118700,
+    "total_deaths": 127161,
+    "daily_new_deaths": 38
+  },
+  {
+    "date": "2021-04-13",
+    "total_cases": 4371984,
+    "daily_new_cases": 2449,
+    "currently_infected": 121328,
+    "total_deaths": 127123,
+    "daily_new_deaths": 23
+  },
+  {
+    "date": "2021-04-12",
+    "total_cases": 4369535,
+    "daily_new_cases": 3534,
+    "currently_infected": 123499,
+    "total_deaths": 127100,
+    "daily_new_deaths": 13
+  },
+  {
+    "date": "2021-04-11",
+    "total_cases": 4366001,
+    "daily_new_cases": 1714,
+    "currently_infected": 125495,
+    "total_deaths": 127087,
+    "daily_new_deaths": 7
+  },
+  {
+    "date": "2021-04-10",
+    "total_cases": 4364287,
+    "daily_new_cases": 2565,
+    "currently_infected": 130345,
+    "total_deaths": 127080,
+    "daily_new_deaths": 40
+  },
+  {
+    "date": "2021-04-09",
+    "total_cases": 4361722,
+    "daily_new_cases": 3116,
+    "currently_infected": 150934,
+    "total_deaths": 127040,
+    "daily_new_deaths": 60
+  },
+  {
+    "date": "2021-04-08",
+    "total_cases": 4358606,
+    "daily_new_cases": 2995,
+    "currently_infected": 152986,
+    "total_deaths": 126980,
+    "daily_new_deaths": 53
+  },
+  {
+    "date": "2021-04-07",
+    "total_cases": 4355611,
+    "daily_new_cases": 2733,
+    "currently_infected": 156020,
+    "total_deaths": 126927,
+    "daily_new_deaths": 45
+  },
+  {
+    "date": "2021-04-06",
+    "total_cases": 4352878,
+    "daily_new_cases": 2352,
+    "currently_infected": 159222,
+    "total_deaths": 126882,
+    "daily_new_deaths": 20
+  },
+  {
+    "date": "2021-04-05",
+    "total_cases": 4350526,
+    "daily_new_cases": 2732,
+    "currently_infected": 163430,
+    "total_deaths": 126862,
+    "daily_new_deaths": 26
+  },
+  {
+    "date": "2021-04-04",
+    "total_cases": 4347794,
+    "daily_new_cases": 2272,
+    "currently_infected": 167071,
+    "total_deaths": 126836,
+    "daily_new_deaths": 10
+  },
+  {
+    "date": "2021-04-03",
+    "total_cases": 4345522,
+    "daily_new_cases": 3386,
+    "currently_infected": 171178,
+    "total_deaths": 126826,
+    "daily_new_deaths": 10
+  },
+  {
+    "date": "2021-04-02",
+    "total_cases": 4342136,
+    "daily_new_cases": 3365,
+    "currently_infected": 173237,
+    "total_deaths": 126816,
+    "daily_new_deaths": 52
+  },
+  {
+    "date": "2021-04-01",
+    "total_cases": 4338771,
+    "daily_new_cases": 4429,
+    "currently_infected": 175896,
+    "total_deaths": 126764,
+    "daily_new_deaths": 51
+  },
+  {
+    "date": "2021-03-31",
+    "total_cases": 4334342,
+    "daily_new_cases": 4007,
+    "currently_infected": 178887,
+    "total_deaths": 126713,
+    "daily_new_deaths": 43
+  },
+  {
+    "date": "2021-03-30",
+    "total_cases": 4330335,
+    "daily_new_cases": 3995,
+    "currently_infected": 183387,
+    "total_deaths": 126670,
+    "daily_new_deaths": 56
+  },
+  {
+    "date": "2021-03-29",
+    "total_cases": 4326340,
+    "daily_new_cases": 4602,
+    "currently_infected": 189359,
+    "total_deaths": 126614,
+    "daily_new_deaths": 22
+  },
+  {
+    "date": "2021-03-28",
+    "total_cases": 4321738,
+    "daily_new_cases": 3819,
+    "currently_infected": 194677,
+    "total_deaths": 126592,
+    "daily_new_deaths": 19
+  },
+  {
+    "date": "2021-03-27",
+    "total_cases": 4317919,
+    "daily_new_cases": 4662,
+    "currently_infected": 209952,
+    "total_deaths": 126573,
+    "daily_new_deaths": 58
+  },
+  {
+    "date": "2021-03-26",
+    "total_cases": 4313257,
+    "daily_new_cases": 5559,
+    "currently_infected": 249533,
+    "total_deaths": 126515,
+    "daily_new_deaths": 70
+  },
+  {
+    "date": "2021-03-25",
+    "total_cases": 4307698,
+    "daily_new_cases": 6150,
+    "currently_infected": 287973,
+    "total_deaths": 126445,
+    "daily_new_deaths": 63
+  },
+  {
+    "date": "2021-03-24",
+    "total_cases": 4301548,
+    "daily_new_cases": 5543,
+    "currently_infected": 336680,
+    "total_deaths": 126382,
+    "daily_new_deaths": 98
+  },
+  {
+    "date": "2021-03-23",
+    "total_cases": 4296005,
+    "daily_new_cases": 5039,
+    "currently_infected": 391601,
+    "total_deaths": 126284,
+    "daily_new_deaths": 112
+  },
+  {
+    "date": "2021-03-22",
+    "total_cases": 4290966,
+    "daily_new_cases": 5282,
+    "currently_infected": 462213,
+    "total_deaths": 126172,
+    "daily_new_deaths": 17
+  },
+  {
+    "date": "2021-03-21",
+    "total_cases": 4285684,
+    "daily_new_cases": 5253,
+    "currently_infected": 486318,
+    "total_deaths": 126155,
+    "daily_new_deaths": 33
+  },
+  {
+    "date": "2021-03-20",
+    "total_cases": 4280431,
+    "daily_new_cases": 5525,
+    "currently_infected": 504083,
+    "total_deaths": 126122,
+    "daily_new_deaths": 96
+  },
+  {
+    "date": "2021-03-19",
+    "total_cases": 4274906,
+    "daily_new_cases": 4748,
+    "currently_infected": 527387,
+    "total_deaths": 126026,
+    "daily_new_deaths": 101
+  },
+  {
+    "date": "2021-03-18",
+    "total_cases": 4270158,
+    "daily_new_cases": 6233,
+    "currently_infected": 551097,
+    "total_deaths": 125925,
+    "daily_new_deaths": 94
+  },
+  {
+    "date": "2021-03-17",
+    "total_cases": 4263925,
+    "daily_new_cases": 5694,
+    "currently_infected": 569823,
+    "total_deaths": 125831,
+    "daily_new_deaths": 141
+  },
+  {
+    "date": "2021-03-16",
+    "total_cases": 4258231,
+    "daily_new_cases": 5235,
+    "currently_infected": 583810,
+    "total_deaths": 125690,
+    "daily_new_deaths": 110
+  },
+  {
+    "date": "2021-03-15",
+    "total_cases": 4252996,
+    "daily_new_cases": 5033,
+    "currently_infected": 600701,
+    "total_deaths": 125580,
+    "daily_new_deaths": 64
+  },
+  {
+    "date": "2021-03-14",
+    "total_cases": 4247963,
+    "daily_new_cases": 4567,
+    "currently_infected": 625522,
+    "total_deaths": 125516,
+    "daily_new_deaths": 52
+  },
+  {
+    "date": "2021-03-13",
+    "total_cases": 4243396,
+    "daily_new_cases": 5473,
+    "currently_infected": 657424,
+    "total_deaths": 125464,
+    "daily_new_deaths": 121
+  },
+  {
+    "date": "2021-03-12",
+    "total_cases": 4237923,
+    "daily_new_cases": 6536,
+    "currently_infected": 688488,
+    "total_deaths": 125343,
+    "daily_new_deaths": 175
+  },
+  {
+    "date": "2021-03-11",
+    "total_cases": 4231387,
+    "daily_new_cases": 6678,
+    "currently_infected": 719564,
+    "total_deaths": 125168,
+    "daily_new_deaths": 181
+  },
+  {
+    "date": "2021-03-10",
+    "total_cases": 4224709,
+    "daily_new_cases": 5905,
+    "currently_infected": 751233,
+    "total_deaths": 124987,
+    "daily_new_deaths": 190
+  },
+  {
+    "date": "2021-03-09",
+    "total_cases": 4218804,
+    "daily_new_cases": 5745,
+    "currently_infected": 778073,
+    "total_deaths": 124797,
+    "daily_new_deaths": 231
+  },
+  {
+    "date": "2021-03-08",
+    "total_cases": 4213059,
+    "daily_new_cases": 4695,
+    "currently_infected": 809864,
+    "total_deaths": 124566,
+    "daily_new_deaths": 65
+  },
+  {
+    "date": "2021-03-07",
+    "total_cases": 4208364,
+    "daily_new_cases": 5159,
+    "currently_infected": 884298,
+    "total_deaths": 124501,
+    "daily_new_deaths": 82
+  },
+  {
+    "date": "2021-03-06",
+    "total_cases": 4203205,
+    "daily_new_cases": 6018,
+    "currently_infected": 879221,
+    "total_deaths": 124419,
+    "daily_new_deaths": 158
+  },
+  {
+    "date": "2021-03-05",
+    "total_cases": 4197187,
+    "daily_new_cases": 5925,
+    "currently_infected": 928359,
+    "total_deaths": 124261,
+    "daily_new_deaths": 236
+  },
+  {
+    "date": "2021-03-04",
+    "total_cases": 4191262,
+    "daily_new_cases": 6548,
+    "currently_infected": 970673,
+    "total_deaths": 124025,
+    "daily_new_deaths": 242
+  },
+  {
+    "date": "2021-03-03",
+    "total_cases": 4184714,
+    "daily_new_cases": 6362,
+    "currently_infected": 1055211,
+    "total_deaths": 123783,
+    "daily_new_deaths": 315
+  },
+  {
+    "date": "2021-03-02",
+    "total_cases": 4178352,
+    "daily_new_cases": 6368,
+    "currently_infected": 1049164,
+    "total_deaths": 123468,
+    "daily_new_deaths": 343
+  },
+  {
+    "date": "2021-03-01",
+    "total_cases": 4171984,
+    "daily_new_cases": 5435,
+    "currently_infected": 1088975,
+    "total_deaths": 123125,
+    "daily_new_deaths": 104
+  },
+  {
+    "date": "2021-02-28",
+    "total_cases": 4166549,
+    "daily_new_cases": 6013,
+    "currently_infected": 1138211,
+    "total_deaths": 123021,
+    "daily_new_deaths": 144
+  },
+  {
+    "date": "2021-02-27",
+    "total_cases": 4160536,
+    "daily_new_cases": 7407,
+    "currently_infected": 1191451,
+    "total_deaths": 122877,
+    "daily_new_deaths": 290
+  },
+  {
+    "date": "2021-02-26",
+    "total_cases": 4153129,
+    "daily_new_cases": 8492,
+    "currently_infected": 1251373,
+    "total_deaths": 122587,
+    "daily_new_deaths": 346
+  },
+  {
+    "date": "2021-02-25",
+    "total_cases": 4144637,
+    "daily_new_cases": 9949,
+    "currently_infected": 1294930,
+    "total_deaths": 122241,
+    "daily_new_deaths": 323
+  },
+  {
+    "date": "2021-02-24",
+    "total_cases": 4134688,
+    "daily_new_cases": 9902,
+    "currently_infected": 1346304,
+    "total_deaths": 121918,
+    "daily_new_deaths": 443
+  },
+  {
+    "date": "2021-02-23",
+    "total_cases": 4124786,
+    "daily_new_cases": 8458,
+    "currently_infected": 1396312,
+    "total_deaths": 121475,
+    "daily_new_deaths": 549
+  },
+  {
+    "date": "2021-02-22",
+    "total_cases": 4116328,
+    "daily_new_cases": 10602,
+    "currently_infected": 1446781,
+    "total_deaths": 120926,
+    "daily_new_deaths": 178
+  },
+  {
+    "date": "2021-02-21",
+    "total_cases": 4105726,
+    "daily_new_cases": 9799,
+    "currently_infected": 1490760,
+    "total_deaths": 120748,
+    "daily_new_deaths": 214
+  },
+  {
+    "date": "2021-02-20",
+    "total_cases": 4095927,
+    "daily_new_cases": 10369,
+    "currently_infected": 1537700,
+    "total_deaths": 120534,
+    "daily_new_deaths": 446
+  },
+  {
+    "date": "2021-02-19",
+    "total_cases": 4085558,
+    "daily_new_cases": 11984,
+    "currently_infected": 1579816,
+    "total_deaths": 120088,
+    "daily_new_deaths": 534
+  },
+  {
+    "date": "2021-02-18",
+    "total_cases": 4073574,
+    "daily_new_cases": 12014,
+    "currently_infected": 1623019,
+    "total_deaths": 119554,
+    "daily_new_deaths": 455
+  },
+  {
+    "date": "2021-02-17",
+    "total_cases": 4061560,
+    "daily_new_cases": 12673,
+    "currently_infected": 1659758,
+    "total_deaths": 119099,
+    "daily_new_deaths": 739
+  },
+  {
+    "date": "2021-02-16",
+    "total_cases": 4048887,
+    "daily_new_cases": 10586,
+    "currently_infected": 1699328,
+    "total_deaths": 118360,
+    "daily_new_deaths": 800
+  },
+  {
+    "date": "2021-02-15",
+    "total_cases": 4038301,
+    "daily_new_cases": 9730,
+    "currently_infected": 1730335,
+    "total_deaths": 117560,
+    "daily_new_deaths": 230
+  },
+  {
+    "date": "2021-02-14",
+    "total_cases": 4028571,
+    "daily_new_cases": 10933,
+    "currently_infected": 1750726,
+    "total_deaths": 117330,
+    "daily_new_deaths": 258
+  },
+  {
+    "date": "2021-02-13",
+    "total_cases": 4017638,
+    "daily_new_cases": 13261,
+    "currently_infected": 1775235,
+    "total_deaths": 117072,
+    "daily_new_deaths": 622
+  },
+  {
+    "date": "2021-02-12",
+    "total_cases": 4004377,
+    "daily_new_cases": 15088,
+    "currently_infected": 1793920,
+    "total_deaths": 116450,
+    "daily_new_deaths": 759
+  },
+  {
+    "date": "2021-02-11",
+    "total_cases": 3989289,
+    "daily_new_cases": 13445,
+    "currently_infected": 1817337,
+    "total_deaths": 115691,
+    "daily_new_deaths": 679
+  },
+  {
+    "date": "2021-02-10",
+    "total_cases": 3975844,
+    "daily_new_cases": 12966,
+    "currently_infected": 1841988,
+    "total_deaths": 115012,
+    "daily_new_deaths": 1002
+  },
+  {
+    "date": "2021-02-09",
+    "total_cases": 3962878,
+    "daily_new_cases": 12319,
+    "currently_infected": 1865218,
+    "total_deaths": 114010,
+    "daily_new_deaths": 1054
+  },
+  {
+    "date": "2021-02-08",
+    "total_cases": 3950559,
+    "daily_new_cases": 14053,
+    "currently_infected": 1886717,
+    "total_deaths": 112956,
+    "daily_new_deaths": 333
+  },
+  {
+    "date": "2021-02-07",
+    "total_cases": 3936506,
+    "daily_new_cases": 15788,
+    "currently_infected": 1908254,
+    "total_deaths": 112623,
+    "daily_new_deaths": 374
+  },
+  {
+    "date": "2021-02-06",
+    "total_cases": 3920718,
+    "daily_new_cases": 18197,
+    "currently_infected": 1918597,
+    "total_deaths": 112249,
+    "daily_new_deaths": 829
+  },
+  {
+    "date": "2021-02-05",
+    "total_cases": 3902521,
+    "daily_new_cases": 19045,
+    "currently_infected": 1928456,
+    "total_deaths": 111420,
+    "daily_new_deaths": 1015
+  },
+  {
+    "date": "2021-02-04",
+    "total_cases": 3883476,
+    "daily_new_cases": 20560,
+    "currently_infected": 1944561,
+    "total_deaths": 110405,
+    "daily_new_deaths": 916
+  },
+  {
+    "date": "2021-02-03",
+    "total_cases": 3862916,
+    "daily_new_cases": 19133,
+    "currently_infected": 1948514,
+    "total_deaths": 109489,
+    "daily_new_deaths": 1324
+  },
+  {
+    "date": "2021-02-02",
+    "total_cases": 3843783,
+    "daily_new_cases": 16779,
+    "currently_infected": 1947912,
+    "total_deaths": 108165,
+    "daily_new_deaths": 1451
+  },
+  {
+    "date": "2021-02-01",
+    "total_cases": 3827004,
+    "daily_new_cases": 18540,
+    "currently_infected": 1952318,
+    "total_deaths": 106714,
+    "daily_new_deaths": 407
+  },
+  {
+    "date": "2021-01-31",
+    "total_cases": 3808464,
+    "daily_new_cases": 21012,
+    "currently_infected": 2028221,
+    "total_deaths": 106307,
+    "daily_new_deaths": 588
+  },
+  {
+    "date": "2021-01-30",
+    "total_cases": 3787452,
+    "daily_new_cases": 23191,
+    "currently_infected": 2007797,
+    "total_deaths": 105719,
+    "daily_new_deaths": 1202
+  },
+  {
+    "date": "2021-01-29",
+    "total_cases": 3764261,
+    "daily_new_cases": 28975,
+    "currently_infected": 1985808,
+    "total_deaths": 104517,
+    "daily_new_deaths": 1247
+  },
+  {
+    "date": "2021-01-28",
+    "total_cases": 3735286,
+    "daily_new_cases": 28627,
+    "currently_infected": 1958080,
+    "total_deaths": 103270,
+    "daily_new_deaths": 1241
+  },
+  {
+    "date": "2021-01-27",
+    "total_cases": 3706659,
+    "daily_new_cases": 25242,
+    "currently_infected": 1930694,
+    "total_deaths": 102029,
+    "daily_new_deaths": 1728
+  },
+  {
+    "date": "2021-01-26",
+    "total_cases": 3681417,
+    "daily_new_cases": 20036,
+    "currently_infected": 1918632,
+    "total_deaths": 100301,
+    "daily_new_deaths": 1633
+  },
+  {
+    "date": "2021-01-25",
+    "total_cases": 3661381,
+    "daily_new_cases": 22135,
+    "currently_infected": 1914495,
+    "total_deaths": 98668,
+    "daily_new_deaths": 593
+  },
+  {
+    "date": "2021-01-24",
+    "total_cases": 3639246,
+    "daily_new_cases": 29925,
+    "currently_infected": 1909771,
+    "total_deaths": 98075,
+    "daily_new_deaths": 611
+  },
+  {
+    "date": "2021-01-23",
+    "total_cases": 3609321,
+    "daily_new_cases": 33463,
+    "currently_infected": 1895550,
+    "total_deaths": 97464,
+    "daily_new_deaths": 1350
+  },
+  {
+    "date": "2021-01-22",
+    "total_cases": 3575858,
+    "daily_new_cases": 40155,
+    "currently_infected": 1879122,
+    "total_deaths": 96114,
+    "daily_new_deaths": 1403
+  },
+  {
+    "date": "2021-01-21",
+    "total_cases": 3535703,
+    "daily_new_cases": 37793,
+    "currently_infected": 1854285,
+    "total_deaths": 94711,
+    "daily_new_deaths": 1292
+  },
+  {
+    "date": "2021-01-20",
+    "total_cases": 3497910,
+    "daily_new_cases": 38803,
+    "currently_infected": 1832972,
+    "total_deaths": 93419,
+    "daily_new_deaths": 1823
+  },
+  {
+    "date": "2021-01-19",
+    "total_cases": 3459107,
+    "daily_new_cases": 33267,
+    "currently_infected": 1809008,
+    "total_deaths": 91596,
+    "daily_new_deaths": 1612
+  },
+  {
+    "date": "2021-01-18",
+    "total_cases": 3425840,
+    "daily_new_cases": 37436,
+    "currently_infected": 1789281,
+    "total_deaths": 89984,
+    "daily_new_deaths": 600
+  },
+  {
+    "date": "2021-01-17",
+    "total_cases": 3388404,
+    "daily_new_cases": 38496,
+    "currently_infected": 1764284,
+    "total_deaths": 89384,
+    "daily_new_deaths": 672
+  },
+  {
+    "date": "2021-01-16",
+    "total_cases": 3349908,
+    "daily_new_cases": 41237,
+    "currently_infected": 1742090,
+    "total_deaths": 88712,
+    "daily_new_deaths": 1297
+  },
+  {
+    "date": "2021-01-15",
+    "total_cases": 3308671,
+    "daily_new_cases": 55610,
+    "currently_infected": 1717602,
+    "total_deaths": 87415,
+    "daily_new_deaths": 1282
+  },
+  {
+    "date": "2021-01-14",
+    "total_cases": 3253061,
+    "daily_new_cases": 48554,
+    "currently_infected": 1759961,
+    "total_deaths": 86133,
+    "daily_new_deaths": 1250
+  },
+  {
+    "date": "2021-01-13",
+    "total_cases": 3204507,
+    "daily_new_cases": 47400,
+    "currently_infected": 1712657,
+    "total_deaths": 84883,
+    "daily_new_deaths": 1566
+  },
+  {
+    "date": "2021-01-12",
+    "total_cases": 3157107,
+    "daily_new_cases": 45412,
+    "currently_infected": 1666823,
+    "total_deaths": 83317,
+    "daily_new_deaths": 1245
+  },
+  {
+    "date": "2021-01-11",
+    "total_cases": 3111695,
+    "daily_new_cases": 46047,
+    "currently_infected": 1622656,
+    "total_deaths": 82072,
+    "daily_new_deaths": 530
+  },
+  {
+    "date": "2021-01-10",
+    "total_cases": 3065648,
+    "daily_new_cases": 54795,
+    "currently_infected": 1577139,
+    "total_deaths": 81542,
+    "daily_new_deaths": 564
+  },
+  {
+    "date": "2021-01-09",
+    "total_cases": 3010853,
+    "daily_new_cases": 59779,
+    "currently_infected": 1522908,
+    "total_deaths": 80978,
+    "daily_new_deaths": 1037
+  },
+  {
+    "date": "2021-01-08",
+    "total_cases": 2951074,
+    "daily_new_cases": 67873,
+    "currently_infected": 1506312,
+    "total_deaths": 79941,
+    "daily_new_deaths": 1327
+  },
+  {
+    "date": "2021-01-07",
+    "total_cases": 2883201,
+    "daily_new_cases": 52480,
+    "currently_infected": 1439766,
+    "total_deaths": 78614,
+    "daily_new_deaths": 1164
+  },
+  {
+    "date": "2021-01-06",
+    "total_cases": 2830721,
+    "daily_new_cases": 62158,
+    "currently_infected": 1407447,
+    "total_deaths": 77450,
+    "daily_new_deaths": 1043
+  },
+  {
+    "date": "2021-01-05",
+    "total_cases": 2768563,
+    "daily_new_cases": 60755,
+    "currently_infected": 1365877,
+    "total_deaths": 76407,
+    "daily_new_deaths": 831
+  },
+  {
+    "date": "2021-01-04",
+    "total_cases": 2707808,
+    "daily_new_cases": 58629,
+    "currently_infected": 1327084,
+    "total_deaths": 75576,
+    "daily_new_deaths": 452
+  },
+  {
+    "date": "2021-01-03",
+    "total_cases": 2649179,
+    "daily_new_cases": 54845,
+    "currently_infected": 1293725,
+    "total_deaths": 75124,
+    "daily_new_deaths": 455
+  },
+  {
+    "date": "2021-01-02",
+    "total_cases": 2594334,
+    "daily_new_cases": 57573,
+    "currently_infected": 1265676,
+    "total_deaths": 74669,
+    "daily_new_deaths": 446
+  },
+  {
+    "date": "2021-01-01",
+    "total_cases": 2536761,
+    "daily_new_cases": 53143,
+    "currently_infected": 1235425,
+    "total_deaths": 74223,
+    "daily_new_deaths": 614
+  },
+  {
+    "date": "2020-12-31",
+    "total_cases": 2483618,
+    "daily_new_cases": 55744,
+    "currently_infected": 1215850,
+    "total_deaths": 73609,
+    "daily_new_deaths": 965
+  },
+  {
+    "date": "2020-12-30",
+    "total_cases": 2427874,
+    "daily_new_cases": 49892,
+    "currently_infected": 1183488,
+    "total_deaths": 72644,
+    "daily_new_deaths": 982
+  },
+  {
+    "date": "2020-12-29",
+    "total_cases": 2377982,
+    "daily_new_cases": 52997,
+    "currently_infected": 1154374,
+    "total_deaths": 71662,
+    "daily_new_deaths": 415
+  },
+  {
+    "date": "2020-12-28",
+    "total_cases": 2324985,
+    "daily_new_cases": 41277,
+    "currently_infected": 1122970,
+    "total_deaths": 71247,
+    "daily_new_deaths": 402
+  },
+  {
+    "date": "2020-12-27",
+    "total_cases": 2283708,
+    "daily_new_cases": 30421,
+    "currently_infected": 1102436,
+    "total_deaths": 70845,
+    "daily_new_deaths": 316
+  },
+  {
+    "date": "2020-12-26",
+    "total_cases": 2253287,
+    "daily_new_cases": 36437,
+    "currently_infected": 1096891,
+    "total_deaths": 70529,
+    "daily_new_deaths": 241
+  },
+  {
+    "date": "2020-12-25",
+    "total_cases": 2216850,
+    "daily_new_cases": 32640,
+    "currently_infected": 1083478,
+    "total_deaths": 70288,
+    "daily_new_deaths": 571
+  },
+  {
+    "date": "2020-12-24",
+    "total_cases": 2184210,
+    "daily_new_cases": 38934,
+    "currently_infected": 1075136,
+    "total_deaths": 69717,
+    "daily_new_deaths": 575
+  },
+  {
+    "date": "2020-12-23",
+    "total_cases": 2145276,
+    "daily_new_cases": 39135,
+    "currently_infected": 1061303,
+    "total_deaths": 69142,
+    "daily_new_deaths": 745
+  },
+  {
+    "date": "2020-12-22",
+    "total_cases": 2106141,
+    "daily_new_cases": 36709,
+    "currently_infected": 1042328,
+    "total_deaths": 68397,
+    "daily_new_deaths": 692
+  },
+  {
+    "date": "2020-12-21",
+    "total_cases": 2069432,
+    "daily_new_cases": 33276,
+    "currently_infected": 1025056,
+    "total_deaths": 67705,
+    "daily_new_deaths": 215
+  },
+  {
+    "date": "2020-12-20",
+    "total_cases": 2036156,
+    "daily_new_cases": 35834,
+    "currently_infected": 1015036,
+    "total_deaths": 67490,
+    "daily_new_deaths": 326
+  },
+  {
+    "date": "2020-12-19",
+    "total_cases": 2000322,
+    "daily_new_cases": 26981,
+    "currently_infected": 1000964,
+    "total_deaths": 67164,
+    "daily_new_deaths": 535
+  },
+  {
+    "date": "2020-12-18",
+    "total_cases": 1973341,
+    "daily_new_cases": 28433,
+    "currently_infected": 998402,
+    "total_deaths": 66629,
+    "daily_new_deaths": 490
+  },
+  {
+    "date": "2020-12-17",
+    "total_cases": 1944908,
+    "daily_new_cases": 35291,
+    "currently_infected": 993027,
+    "total_deaths": 66139,
+    "daily_new_deaths": 533
+  },
+  {
+    "date": "2020-12-16",
+    "total_cases": 1909617,
+    "daily_new_cases": 25107,
+    "currently_infected": 982274,
+    "total_deaths": 65606,
+    "daily_new_deaths": 613
+  },
+  {
+    "date": "2020-12-15",
+    "total_cases": 1884510,
+    "daily_new_cases": 18408,
+    "currently_infected": 980057,
+    "total_deaths": 64993,
+    "daily_new_deaths": 507
+  },
+  {
+    "date": "2020-12-14",
+    "total_cases": 1866102,
+    "daily_new_cases": 20218,
+    "currently_infected": 982840,
+    "total_deaths": 64486,
+    "daily_new_deaths": 232
+  },
+  {
+    "date": "2020-12-13",
+    "total_cases": 1845884,
+    "daily_new_cases": 18405,
+    "currently_infected": 982246,
+    "total_deaths": 64254,
+    "daily_new_deaths": 144
+  },
+  {
+    "date": "2020-12-12",
+    "total_cases": 1827479,
+    "daily_new_cases": 21455,
+    "currently_infected": 986656,
+    "total_deaths": 64110,
+    "daily_new_deaths": 520
+  },
+  {
+    "date": "2020-12-11",
+    "total_cases": 1806024,
+    "daily_new_cases": 21623,
+    "currently_infected": 985741,
+    "total_deaths": 63590,
+    "daily_new_deaths": 426
+  },
+  {
+    "date": "2020-12-10",
+    "total_cases": 1784401,
+    "daily_new_cases": 20918,
+    "currently_infected": 985286,
+    "total_deaths": 63164,
+    "daily_new_deaths": 517
+  },
+  {
+    "date": "2020-12-09",
+    "total_cases": 1763483,
+    "daily_new_cases": 16542,
+    "currently_infected": 991040,
+    "total_deaths": 62647,
+    "daily_new_deaths": 534
+  },
+  {
+    "date": "2020-12-08",
+    "total_cases": 1746941,
+    "daily_new_cases": 12253,
+    "currently_infected": 995764,
+    "total_deaths": 62113,
+    "daily_new_deaths": 617
+  },
+  {
+    "date": "2020-12-07",
+    "total_cases": 1734688,
+    "daily_new_cases": 14684,
+    "currently_infected": 1002718,
+    "total_deaths": 61496,
+    "daily_new_deaths": 172
+  },
+  {
+    "date": "2020-12-06",
+    "total_cases": 1720004,
+    "daily_new_cases": 17234,
+    "currently_infected": 1005019,
+    "total_deaths": 61324,
+    "daily_new_deaths": 231
+  },
+  {
+    "date": "2020-12-05",
+    "total_cases": 1702770,
+    "daily_new_cases": 15505,
+    "currently_infected": 1003724,
+    "total_deaths": 61093,
+    "daily_new_deaths": 398
+  },
+  {
+    "date": "2020-12-04",
+    "total_cases": 1687265,
+    "daily_new_cases": 16263,
+    "currently_infected": 1003891,
+    "total_deaths": 60695,
+    "daily_new_deaths": 505
+  },
+  {
+    "date": "2020-12-03",
+    "total_cases": 1671002,
+    "daily_new_cases": 14847,
+    "currently_infected": 1006535,
+    "total_deaths": 60190,
+    "daily_new_deaths": 415
+  },
+  {
+    "date": "2020-12-02",
+    "total_cases": 1656155,
+    "daily_new_cases": 16136,
+    "currently_infected": 1011230,
+    "total_deaths": 59775,
+    "daily_new_deaths": 649
+  },
+  {
+    "date": "2020-12-01",
+    "total_cases": 1640019,
+    "daily_new_cases": 13402,
+    "currently_infected": 1012445,
+    "total_deaths": 59126,
+    "daily_new_deaths": 604
+  },
+  {
+    "date": "2020-11-30",
+    "total_cases": 1626617,
+    "daily_new_cases": 12303,
+    "currently_infected": 1013423,
+    "total_deaths": 58522,
+    "daily_new_deaths": 205
+  },
+  {
+    "date": "2020-11-29",
+    "total_cases": 1614314,
+    "daily_new_cases": 12130,
+    "currently_infected": 1014041,
+    "total_deaths": 58317,
+    "daily_new_deaths": 213
+  },
+  {
+    "date": "2020-11-28",
+    "total_cases": 1602184,
+    "daily_new_cases": 15839,
+    "currently_infected": 1016877,
+    "total_deaths": 58104,
+    "daily_new_deaths": 480
+  },
+  {
+    "date": "2020-11-27",
+    "total_cases": 1586345,
+    "daily_new_cases": 15990,
+    "currently_infected": 1015026,
+    "total_deaths": 57624,
+    "daily_new_deaths": 522
+  },
+  {
+    "date": "2020-11-26",
+    "total_cases": 1570355,
+    "daily_new_cases": 16239,
+    "currently_infected": 1016720,
+    "total_deaths": 57102,
+    "daily_new_deaths": 498
+  },
+  {
+    "date": "2020-11-25",
+    "total_cases": 1554116,
+    "daily_new_cases": 18178,
+    "currently_infected": 1014649,
+    "total_deaths": 56604,
+    "daily_new_deaths": 697
+  },
+  {
+    "date": "2020-11-24",
+    "total_cases": 1535938,
+    "daily_new_cases": 11276,
+    "currently_infected": 1011313,
+    "total_deaths": 55907,
+    "daily_new_deaths": 608
+  },
+  {
+    "date": "2020-11-23",
+    "total_cases": 1524662,
+    "daily_new_cases": 15420,
+    "currently_infected": 1013103,
+    "total_deaths": 55299,
+    "daily_new_deaths": 206
+  },
+  {
+    "date": "2020-11-22",
+    "total_cases": 1509242,
+    "daily_new_cases": 18626,
+    "currently_infected": 1005708,
+    "total_deaths": 55093,
+    "daily_new_deaths": 399
+  },
+  {
+    "date": "2020-11-21",
+    "total_cases": 1490616,
+    "daily_new_cases": 19837,
+    "currently_infected": 994225,
+    "total_deaths": 54694,
+    "daily_new_deaths": 341
+  },
+  {
+    "date": "2020-11-20",
+    "total_cases": 1470779,
+    "daily_new_cases": 20213,
+    "currently_infected": 986209,
+    "total_deaths": 54353,
+    "daily_new_deaths": 511
+  },
+  {
+    "date": "2020-11-19",
+    "total_cases": 1450566,
+    "daily_new_cases": 22872,
+    "currently_infected": 977274,
+    "total_deaths": 53842,
+    "daily_new_deaths": 502
+  },
+  {
+    "date": "2020-11-18",
+    "total_cases": 1427694,
+    "daily_new_cases": 19570,
+    "currently_infected": 964751,
+    "total_deaths": 53340,
+    "daily_new_deaths": 530
+  },
+  {
+    "date": "2020-11-17",
+    "total_cases": 1408124,
+    "daily_new_cases": 20011,
+    "currently_infected": 954460,
+    "total_deaths": 52810,
+    "daily_new_deaths": 599
+  },
+  {
+    "date": "2020-11-16",
+    "total_cases": 1388113,
+    "daily_new_cases": 21321,
+    "currently_infected": 939608,
+    "total_deaths": 52211,
+    "daily_new_deaths": 213
+  },
+  {
+    "date": "2020-11-15",
+    "total_cases": 1366792,
+    "daily_new_cases": 24913,
+    "currently_infected": 926062,
+    "total_deaths": 51998,
+    "daily_new_deaths": 168
+  },
+  {
+    "date": "2020-11-14",
+    "total_cases": 1341879,
+    "daily_new_cases": 26809,
+    "currently_infected": 908722,
+    "total_deaths": 51830,
+    "daily_new_deaths": 463
+  },
+  {
+    "date": "2020-11-13",
+    "total_cases": 1315070,
+    "daily_new_cases": 27249,
+    "currently_infected": 889670,
+    "total_deaths": 51367,
+    "daily_new_deaths": 377
+  },
+  {
+    "date": "2020-11-12",
+    "total_cases": 1287821,
+    "daily_new_cases": 33407,
+    "currently_infected": 869966,
+    "total_deaths": 50990,
+    "daily_new_deaths": 564
+  },
+  {
+    "date": "2020-11-11",
+    "total_cases": 1254414,
+    "daily_new_cases": 22906,
+    "currently_infected": 843831,
+    "total_deaths": 50426,
+    "daily_new_deaths": 596
+  },
+  {
+    "date": "2020-11-10",
+    "total_cases": 1231508,
+    "daily_new_cases": 20373,
+    "currently_infected": 826359,
+    "total_deaths": 49830,
+    "daily_new_deaths": 533
+  },
+  {
+    "date": "2020-11-09",
+    "total_cases": 1211135,
+    "daily_new_cases": 21309,
+    "currently_infected": 810876,
+    "total_deaths": 49297,
+    "daily_new_deaths": 194
+  },
+  {
+    "date": "2020-11-08",
+    "total_cases": 1189826,
+    "daily_new_cases": 20532,
+    "currently_infected": 793850,
+    "total_deaths": 49103,
+    "daily_new_deaths": 156
+  },
+  {
+    "date": "2020-11-07",
+    "total_cases": 1169294,
+    "daily_new_cases": 24910,
+    "currently_infected": 777840,
+    "total_deaths": 48947,
+    "daily_new_deaths": 414
+  },
+  {
+    "date": "2020-11-06",
+    "total_cases": 1144384,
+    "daily_new_cases": 23243,
+    "currently_infected": 757530,
+    "total_deaths": 48533,
+    "daily_new_deaths": 356
+  },
+  {
+    "date": "2020-11-05",
+    "total_cases": 1121141,
+    "daily_new_cases": 24096,
+    "currently_infected": 737900,
+    "total_deaths": 48177,
+    "daily_new_deaths": 379
+  },
+  {
+    "date": "2020-11-04",
+    "total_cases": 1097045,
+    "daily_new_cases": 25128,
+    "currently_infected": 718037,
+    "total_deaths": 47798,
+    "daily_new_deaths": 493
+  },
+  {
+    "date": "2020-11-03",
+    "total_cases": 1071917,
+    "daily_new_cases": 19981,
+    "currently_infected": 696364,
+    "total_deaths": 47305,
+    "daily_new_deaths": 398
+  },
+  {
+    "date": "2020-11-02",
+    "total_cases": 1051936,
+    "daily_new_cases": 18915,
+    "currently_infected": 679350,
+    "total_deaths": 46907,
+    "daily_new_deaths": 136
+  },
+  {
+    "date": "2020-11-01",
+    "total_cases": 1033021,
+    "daily_new_cases": 23211,
+    "currently_infected": 663836,
+    "total_deaths": 46771,
+    "daily_new_deaths": 162
+  },
+  {
+    "date": "2020-10-31",
+    "total_cases": 1009810,
+    "daily_new_cases": 21875,
+    "currently_infected": 644203,
+    "total_deaths": 46609,
+    "daily_new_deaths": 326
+  },
+  {
+    "date": "2020-10-30",
+    "total_cases": 987935,
+    "daily_new_cases": 24360,
+    "currently_infected": 626106,
+    "total_deaths": 46283,
+    "daily_new_deaths": 274
+  },
+  {
+    "date": "2020-10-29",
+    "total_cases": 963575,
+    "daily_new_cases": 23023,
+    "currently_infected": 604862,
+    "total_deaths": 46009,
+    "daily_new_deaths": 280
+  },
+  {
+    "date": "2020-10-28",
+    "total_cases": 940552,
+    "daily_new_cases": 24656,
+    "currently_infected": 584708,
+    "total_deaths": 45729,
+    "daily_new_deaths": 310
+  },
+  {
+    "date": "2020-10-27",
+    "total_cases": 915896,
+    "daily_new_cases": 22842,
+    "currently_infected": 562746,
+    "total_deaths": 45419,
+    "daily_new_deaths": 368
+  },
+  {
+    "date": "2020-10-26",
+    "total_cases": 893054,
+    "daily_new_cases": 20852,
+    "currently_infected": 543201,
+    "total_deaths": 45051,
+    "daily_new_deaths": 102
+  },
+  {
+    "date": "2020-10-25",
+    "total_cases": 872202,
+    "daily_new_cases": 19754,
+    "currently_infected": 525406,
+    "total_deaths": 44949,
+    "daily_new_deaths": 151
+  },
+  {
+    "date": "2020-10-24",
+    "total_cases": 852448,
+    "daily_new_cases": 22970,
+    "currently_infected": 507567,
+    "total_deaths": 44798,
+    "daily_new_deaths": 174
+  },
+  {
+    "date": "2020-10-23",
+    "total_cases": 829478,
+    "daily_new_cases": 20492,
+    "currently_infected": 486645,
+    "total_deaths": 44624,
+    "daily_new_deaths": 224
+  },
+  {
+    "date": "2020-10-22",
+    "total_cases": 808986,
+    "daily_new_cases": 21204,
+    "currently_infected": 468053,
+    "total_deaths": 44400,
+    "daily_new_deaths": 189
+  },
+  {
+    "date": "2020-10-21",
+    "total_cases": 787782,
+    "daily_new_cases": 26635,
+    "currently_infected": 448475,
+    "total_deaths": 44211,
+    "daily_new_deaths": 191
+  },
+  {
+    "date": "2020-10-20",
+    "total_cases": 761147,
+    "daily_new_cases": 21291,
+    "currently_infected": 423255,
+    "total_deaths": 44020,
+    "daily_new_deaths": 241
+  },
+  {
+    "date": "2020-10-19",
+    "total_cases": 739856,
+    "daily_new_cases": 18769,
+    "currently_infected": 403598,
+    "total_deaths": 43779,
+    "daily_new_deaths": 80
+  },
+  {
+    "date": "2020-10-18",
+    "total_cases": 721087,
+    "daily_new_cases": 16950,
+    "currently_infected": 386607,
+    "total_deaths": 43699,
+    "daily_new_deaths": 67
+  },
+  {
+    "date": "2020-10-17",
+    "total_cases": 704137,
+    "daily_new_cases": 16140,
+    "currently_infected": 370798,
+    "total_deaths": 43632,
+    "daily_new_deaths": 150
+  },
+  {
+    "date": "2020-10-16",
+    "total_cases": 687997,
+    "daily_new_cases": 15621,
+    "currently_infected": 356049,
+    "total_deaths": 43482,
+    "daily_new_deaths": 136
+  },
+  {
+    "date": "2020-10-15",
+    "total_cases": 672376,
+    "daily_new_cases": 18930,
+    "currently_infected": 342046,
+    "total_deaths": 43346,
+    "daily_new_deaths": 138
+  },
+  {
+    "date": "2020-10-14",
+    "total_cases": 653446,
+    "daily_new_cases": 19686,
+    "currently_infected": 324265,
+    "total_deaths": 43208,
+    "daily_new_deaths": 137
+  },
+  {
+    "date": "2020-10-13",
+    "total_cases": 633760,
+    "daily_new_cases": 17202,
+    "currently_infected": 305863,
+    "total_deaths": 43071,
+    "daily_new_deaths": 143
+  },
+  {
+    "date": "2020-10-12",
+    "total_cases": 616558,
+    "daily_new_cases": 13944,
+    "currently_infected": 289646,
+    "total_deaths": 42928,
+    "daily_new_deaths": 50
+  },
+  {
+    "date": "2020-10-11",
+    "total_cases": 602614,
+    "daily_new_cases": 12848,
+    "currently_infected": 276894,
+    "total_deaths": 42878,
+    "daily_new_deaths": 65
+  },
+  {
+    "date": "2020-10-10",
+    "total_cases": 589766,
+    "daily_new_cases": 15138,
+    "currently_infected": 265372,
+    "total_deaths": 42813,
+    "daily_new_deaths": 81
+  },
+  {
+    "date": "2020-10-09",
+    "total_cases": 574628,
+    "daily_new_cases": 13838,
+    "currently_infected": 251321,
+    "total_deaths": 42732,
+    "daily_new_deaths": 87
+  },
+  {
+    "date": "2020-10-08",
+    "total_cases": 560790,
+    "daily_new_cases": 17508,
+    "currently_infected": 238731,
+    "total_deaths": 42645,
+    "daily_new_deaths": 77
+  },
+  {
+    "date": "2020-10-07",
+    "total_cases": 543282,
+    "daily_new_cases": 14136,
+    "currently_infected": 222092,
+    "total_deaths": 42568,
+    "daily_new_deaths": 70
+  },
+  {
+    "date": "2020-10-06",
+    "total_cases": 529146,
+    "daily_new_cases": 14515,
+    "currently_infected": 209088,
+    "total_deaths": 42498,
+    "daily_new_deaths": 76
+  },
+  {
+    "date": "2020-10-05",
+    "total_cases": 514631,
+    "daily_new_cases": 12571,
+    "currently_infected": 195353,
+    "total_deaths": 42422,
+    "daily_new_deaths": 19
+  },
+  {
+    "date": "2020-10-04",
+    "total_cases": 502060,
+    "daily_new_cases": 7966,
+    "currently_infected": 183836,
+    "total_deaths": 42403,
+    "daily_new_deaths": 33
+  },
+  {
+    "date": "2020-10-03",
+    "total_cases": 494094,
+    "daily_new_cases": 7057,
+    "currently_infected": 176971,
+    "total_deaths": 42370,
+    "daily_new_deaths": 49
+  },
+  {
+    "date": "2020-10-02",
+    "total_cases": 487037,
+    "daily_new_cases": 11732,
+    "currently_infected": 171397,
+    "total_deaths": 42321,
+    "daily_new_deaths": 66
+  },
+  {
+    "date": "2020-10-01",
+    "total_cases": 475305,
+    "daily_new_cases": 11027,
+    "currently_infected": 160846,
+    "total_deaths": 42255,
+    "daily_new_deaths": 59
+  },
+  {
+    "date": "2020-09-30",
+    "total_cases": 464278,
+    "daily_new_cases": 10138,
+    "currently_infected": 150879,
+    "total_deaths": 42196,
+    "daily_new_deaths": 71
+  },
+  {
+    "date": "2020-09-29",
+    "total_cases": 454140,
+    "daily_new_cases": 9099,
+    "currently_infected": 141928,
+    "total_deaths": 42125,
+    "daily_new_deaths": 71
+  },
+  {
+    "date": "2020-09-28",
+    "total_cases": 445041,
+    "daily_new_cases": 4653,
+    "currently_infected": 133713,
+    "total_deaths": 42054,
+    "daily_new_deaths": 13
+  },
+  {
+    "date": "2020-09-27",
+    "total_cases": 440388,
+    "daily_new_cases": 7699,
+    "currently_infected": 130133,
+    "total_deaths": 42041,
+    "daily_new_deaths": 17
+  },
+  {
+    "date": "2020-09-26",
+    "total_cases": 432689,
+    "daily_new_cases": 7565,
+    "currently_infected": 123197,
+    "total_deaths": 42024,
+    "daily_new_deaths": 34
+  },
+  {
+    "date": "2020-09-25",
+    "total_cases": 425124,
+    "daily_new_cases": 7504,
+    "currently_infected": 116527,
+    "total_deaths": 41990,
+    "daily_new_deaths": 35
+  },
+  {
+    "date": "2020-09-24",
+    "total_cases": 417620,
+    "daily_new_cases": 7344,
+    "currently_infected": 109995,
+    "total_deaths": 41955,
+    "daily_new_deaths": 40
+  },
+  {
+    "date": "2020-09-23",
+    "total_cases": 410276,
+    "daily_new_cases": 6886,
+    "currently_infected": 103572,
+    "total_deaths": 41915,
+    "daily_new_deaths": 37
+  },
+  {
+    "date": "2020-09-22",
+    "total_cases": 403390,
+    "daily_new_cases": 5070,
+    "currently_infected": 97390,
+    "total_deaths": 41878,
+    "daily_new_deaths": 37
+  },
+  {
+    "date": "2020-09-21",
+    "total_cases": 398320,
+    "daily_new_cases": 4429,
+    "currently_infected": 93283,
+    "total_deaths": 41841,
+    "daily_new_deaths": 11
+  },
+  {
+    "date": "2020-09-20",
+    "total_cases": 393891,
+    "daily_new_cases": 4148,
+    "currently_infected": 89607,
+    "total_deaths": 41830,
+    "daily_new_deaths": 18
+  },
+  {
+    "date": "2020-09-19",
+    "total_cases": 389743,
+    "daily_new_cases": 4508,
+    "currently_infected": 86236,
+    "total_deaths": 41812,
+    "daily_new_deaths": 27
+  },
+  {
+    "date": "2020-09-18",
+    "total_cases": 385235,
+    "daily_new_cases": 4314,
+    "currently_infected": 82626,
+    "total_deaths": 41785,
+    "daily_new_deaths": 27
+  },
+  {
+    "date": "2020-09-17",
+    "total_cases": 380921,
+    "daily_new_cases": 3389,
+    "currently_infected": 79173,
+    "total_deaths": 41758,
+    "daily_new_deaths": 21
+  },
+  {
+    "date": "2020-09-16",
+    "total_cases": 377532,
+    "daily_new_cases": 3984,
+    "currently_infected": 76552,
+    "total_deaths": 41737,
+    "daily_new_deaths": 20
+  },
+  {
+    "date": "2020-09-15",
+    "total_cases": 373548,
+    "daily_new_cases": 3099,
+    "currently_infected": 73153,
+    "total_deaths": 41717,
+    "daily_new_deaths": 27
+  },
+  {
+    "date": "2020-09-14",
+    "total_cases": 370449,
+    "daily_new_cases": 2614,
+    "currently_infected": 70762,
+    "total_deaths": 41690,
+    "daily_new_deaths": 9
+  },
+  {
+    "date": "2020-09-13",
+    "total_cases": 367835,
+    "daily_new_cases": 3324,
+    "currently_infected": 68896,
+    "total_deaths": 41681,
+    "daily_new_deaths": 5
+  },
+  {
+    "date": "2020-09-12",
+    "total_cases": 364511,
+    "daily_new_cases": 3491,
+    "currently_infected": 66326,
+    "total_deaths": 41676,
+    "daily_new_deaths": 9
+  },
+  {
+    "date": "2020-09-11",
+    "total_cases": 361020,
+    "daily_new_cases": 3533,
+    "currently_infected": 63610,
+    "total_deaths": 41667,
+    "daily_new_deaths": 6
+  },
+  {
+    "date": "2020-09-10",
+    "total_cases": 357487,
+    "daily_new_cases": 2914,
+    "currently_infected": 60846,
+    "total_deaths": 41661,
+    "daily_new_deaths": 14
+  },
+  {
+    "date": "2020-09-09",
+    "total_cases": 354573,
+    "daily_new_cases": 2654,
+    "currently_infected": 58490,
+    "total_deaths": 41647,
+    "daily_new_deaths": 8
+  },
+  {
+    "date": "2020-09-08",
+    "total_cases": 351919,
+    "daily_new_cases": 2455,
+    "currently_infected": 56277,
+    "total_deaths": 41639,
+    "daily_new_deaths": 32
+  },
+  {
+    "date": "2020-09-07",
+    "total_cases": 349464,
+    "daily_new_cases": 2943,
+    "currently_infected": 54431,
+    "total_deaths": 41607,
+    "daily_new_deaths": 3
+  },
+  {
+    "date": "2020-09-06",
+    "total_cases": 346521,
+    "daily_new_cases": 2983,
+    "currently_infected": 52212,
+    "total_deaths": 41604,
+    "daily_new_deaths": 2
+  },
+  {
+    "date": "2020-09-05",
+    "total_cases": 343538,
+    "daily_new_cases": 1810,
+    "currently_infected": 50055,
+    "total_deaths": 41602,
+    "daily_new_deaths": 12
+  },
+  {
+    "date": "2020-09-04",
+    "total_cases": 341728,
+    "daily_new_cases": 1936,
+    "currently_infected": 48933,
+    "total_deaths": 41590,
+    "daily_new_deaths": 10
+  },
+  {
+    "date": "2020-09-03",
+    "total_cases": 339792,
+    "daily_new_cases": 1732,
+    "currently_infected": 47630,
+    "total_deaths": 41580,
+    "daily_new_deaths": 13
+  },
+  {
+    "date": "2020-09-02",
+    "total_cases": 338060,
+    "daily_new_cases": 1505,
+    "currently_infected": 46429,
+    "total_deaths": 41567,
+    "daily_new_deaths": 10
+  },
+  {
+    "date": "2020-09-01",
+    "total_cases": 336555,
+    "daily_new_cases": 1293,
+    "currently_infected": 45318,
+    "total_deaths": 41557,
+    "daily_new_deaths": 3
+  },
+  {
+    "date": "2020-08-31",
+    "total_cases": 335262,
+    "daily_new_cases": 1403,
+    "currently_infected": 44541,
+    "total_deaths": 41554,
+    "daily_new_deaths": 2
+  },
+  {
+    "date": "2020-08-30",
+    "total_cases": 333859,
+    "daily_new_cases": 1712,
+    "currently_infected": 43786,
+    "total_deaths": 41552,
+    "daily_new_deaths": 1
+  },
+  {
+    "date": "2020-08-29",
+    "total_cases": 332147,
+    "daily_new_cases": 1106,
+    "currently_infected": 42894,
+    "total_deaths": 41551,
+    "daily_new_deaths": 12
+  },
+  {
+    "date": "2020-08-28",
+    "total_cases": 331041,
+    "daily_new_cases": 1274,
+    "currently_infected": 42301,
+    "total_deaths": 41539,
+    "daily_new_deaths": 9
+  },
+  {
+    "date": "2020-08-27",
+    "total_cases": 329767,
+    "daily_new_cases": 1519,
+    "currently_infected": 41662,
+    "total_deaths": 41530,
+    "daily_new_deaths": 12
+  },
+  {
+    "date": "2020-08-26",
+    "total_cases": 328248,
+    "daily_new_cases": 1046,
+    "currently_infected": 40773,
+    "total_deaths": 41518,
+    "daily_new_deaths": 16
+  },
+  {
+    "date": "2020-08-25",
+    "total_cases": 327202,
+    "daily_new_cases": 1182,
+    "currently_infected": 40308,
+    "total_deaths": 41502,
+    "daily_new_deaths": 16
+  },
+  {
+    "date": "2020-08-24",
+    "total_cases": 326020,
+    "daily_new_cases": 851,
+    "currently_infected": 39494,
+    "total_deaths": 41486,
+    "daily_new_deaths": 4
+  },
+  {
+    "date": "2020-08-23",
+    "total_cases": 325169,
+    "daily_new_cases": 1158,
+    "currently_infected": 39160,
+    "total_deaths": 41482,
+    "daily_new_deaths": 6
+  },
+  {
+    "date": "2020-08-22",
+    "total_cases": 324011,
+    "daily_new_cases": 1286,
+    "currently_infected": 38621,
+    "total_deaths": 41476,
+    "daily_new_deaths": 18
+  },
+  {
+    "date": "2020-08-21",
+    "total_cases": 322725,
+    "daily_new_cases": 1031,
+    "currently_infected": 37856,
+    "total_deaths": 41458,
+    "daily_new_deaths": 2
+  },
+  {
+    "date": "2020-08-20",
+    "total_cases": 321694,
+    "daily_new_cases": 1180,
+    "currently_infected": 37403,
+    "total_deaths": 41456,
+    "daily_new_deaths": 6
+  },
+  {
+    "date": "2020-08-19",
+    "total_cases": 320514,
+    "daily_new_cases": 811,
+    "currently_infected": 36946,
+    "total_deaths": 41450,
+    "daily_new_deaths": 16
+  },
+  {
+    "date": "2020-08-18",
+    "total_cases": 319703,
+    "daily_new_cases": 1087,
+    "currently_infected": 36754,
+    "total_deaths": 41434,
+    "daily_new_deaths": 12
+  },
+  {
+    "date": "2020-08-17",
+    "total_cases": 318616,
+    "daily_new_cases": 712,
+    "currently_infected": 36413,
+    "total_deaths": 41422,
+    "daily_new_deaths": 3
+  },
+  {
+    "date": "2020-08-16",
+    "total_cases": 317904,
+    "daily_new_cases": 1038,
+    "currently_infected": 36512,
+    "total_deaths": 41419,
+    "daily_new_deaths": 5
+  },
+  {
+    "date": "2020-08-15",
+    "total_cases": 316866,
+    "daily_new_cases": 1075,
+    "currently_infected": 36270,
+    "total_deaths": 41414,
+    "daily_new_deaths": 3
+  },
+  {
+    "date": "2020-08-14",
+    "total_cases": 315791,
+    "daily_new_cases": 1437,
+    "currently_infected": 36417,
+    "total_deaths": 41411,
+    "daily_new_deaths": 11
+  },
+  {
+    "date": "2020-08-13",
+    "total_cases": 314354,
+    "daily_new_cases": 1127,
+    "currently_infected": 35995,
+    "total_deaths": 41400,
+    "daily_new_deaths": 18
+  },
+  {
+    "date": "2020-08-12",
+    "total_cases": 313227,
+    "daily_new_cases": 1007,
+    "currently_infected": 35460,
+    "total_deaths": 41382,
+    "daily_new_deaths": 20
+  },
+  {
+    "date": "2020-08-11",
+    "total_cases": 312220,
+    "daily_new_cases": 1146,
+    "currently_infected": 35282,
+    "total_deaths": 41362,
+    "daily_new_deaths": 14
+  },
+  {
+    "date": "2020-08-10",
+    "total_cases": 311074,
+    "daily_new_cases": 815,
+    "currently_infected": 35008,
+    "total_deaths": 41348,
+    "daily_new_deaths": 17
+  },
+  {
+    "date": "2020-08-09",
+    "total_cases": 310259,
+    "daily_new_cases": 1060,
+    "currently_infected": 35305,
+    "total_deaths": 41331,
+    "daily_new_deaths": 5
+  },
+  {
+    "date": "2020-08-08",
+    "total_cases": 309199,
+    "daily_new_cases": 757,
+    "currently_infected": 35414,
+    "total_deaths": 41326,
+    "daily_new_deaths": 3
+  },
+  {
+    "date": "2020-08-07",
+    "total_cases": 308442,
+    "daily_new_cases": 869,
+    "currently_infected": 35853,
+    "total_deaths": 41323,
+    "daily_new_deaths": 12
+  },
+  {
+    "date": "2020-08-06",
+    "total_cases": 307573,
+    "daily_new_cases": 948,
+    "currently_infected": 36076,
+    "total_deaths": 41311,
+    "daily_new_deaths": 18
+  },
+  {
+    "date": "2020-08-05",
+    "total_cases": 306625,
+    "daily_new_cases": 889,
+    "currently_infected": 36130,
+    "total_deaths": 41293,
+    "daily_new_deaths": 14
+  },
+  {
+    "date": "2020-08-04",
+    "total_cases": 305736,
+    "daily_new_cases": 669,
+    "currently_infected": 36367,
+    "total_deaths": 41279,
+    "daily_new_deaths": 18
+  },
+  {
+    "date": "2020-08-03",
+    "total_cases": 305067,
+    "daily_new_cases": 926,
+    "currently_infected": 36585,
+    "total_deaths": 41261,
+    "daily_new_deaths": 1
+  },
+  {
+    "date": "2020-08-02",
+    "total_cases": 304141,
+    "daily_new_cases": 742,
+    "currently_infected": 37023,
+    "total_deaths": 41260,
+    "daily_new_deaths": 5
+  },
+  {
+    "date": "2020-08-01",
+    "total_cases": 303399,
+    "daily_new_cases": 770,
+    "currently_infected": 37560,
+    "total_deaths": 41255,
+    "daily_new_deaths": 13
+  },
+  {
+    "date": "2020-07-31",
+    "total_cases": 302629,
+    "daily_new_cases": 878,
+    "currently_infected": 38165,
+    "total_deaths": 41242,
+    "daily_new_deaths": 18
+  },
+  {
+    "date": "2020-07-30",
+    "total_cases": 301751,
+    "daily_new_cases": 844,
+    "currently_infected": 38420,
+    "total_deaths": 41224,
+    "daily_new_deaths": 2
+  },
+  {
+    "date": "2020-07-29",
+    "total_cases": 300907,
+    "daily_new_cases": 762,
+    "currently_infected": 38430,
+    "total_deaths": 41222,
+    "daily_new_deaths": 34
+  },
+  {
+    "date": "2020-07-28",
+    "total_cases": 300145,
+    "daily_new_cases": 580,
+    "currently_infected": 39227,
+    "total_deaths": 41188,
+    "daily_new_deaths": 21
+  },
+  {
+    "date": "2020-07-27",
+    "total_cases": 299565,
+    "daily_new_cases": 684,
+    "currently_infected": 39749,
+    "total_deaths": 41167,
+    "daily_new_deaths": 3
+  },
+  {
+    "date": "2020-07-26",
+    "total_cases": 298881,
+    "daily_new_cases": 744,
+    "currently_infected": 40250,
+    "total_deaths": 41164,
+    "daily_new_deaths": 8
+  },
+  {
+    "date": "2020-07-25",
+    "total_cases": 298137,
+    "daily_new_cases": 766,
+    "currently_infected": 40889,
+    "total_deaths": 41156,
+    "daily_new_deaths": 15
+  },
+  {
+    "date": "2020-07-24",
+    "total_cases": 297371,
+    "daily_new_cases": 767,
+    "currently_infected": 41585,
+    "total_deaths": 41141,
+    "daily_new_deaths": 32
+  },
+  {
+    "date": "2020-07-23",
+    "total_cases": 296604,
+    "daily_new_cases": 768,
+    "currently_infected": 42446,
+    "total_deaths": 41109,
+    "daily_new_deaths": 9
+  },
+  {
+    "date": "2020-07-22",
+    "total_cases": 295836,
+    "daily_new_cases": 559,
+    "currently_infected": 43283,
+    "total_deaths": 41100,
+    "daily_new_deaths": 17
+  },
+  {
+    "date": "2020-07-21",
+    "total_cases": 295277,
+    "daily_new_cases": 444,
+    "currently_infected": 44187,
+    "total_deaths": 41083,
+    "daily_new_deaths": 25
+  },
+  {
+    "date": "2020-07-20",
+    "total_cases": 294833,
+    "daily_new_cases": 579,
+    "currently_infected": 45169,
+    "total_deaths": 41058,
+    "daily_new_deaths": 10
+  },
+  {
+    "date": "2020-07-19",
+    "total_cases": 294254,
+    "daily_new_cases": 725,
+    "currently_infected": 46323,
+    "total_deaths": 41048,
+    "daily_new_deaths": 11
+  },
+  {
+    "date": "2020-07-18",
+    "total_cases": 293529,
+    "daily_new_cases": 825,
+    "currently_infected": 47022,
+    "total_deaths": 41037,
+    "daily_new_deaths": 9
+  },
+  {
+    "date": "2020-07-17",
+    "total_cases": 292704,
+    "daily_new_cases": 686,
+    "currently_infected": 48026,
+    "total_deaths": 41028,
+    "daily_new_deaths": 27
+  },
+  {
+    "date": "2020-07-16",
+    "total_cases": 292018,
+    "daily_new_cases": 640,
+    "currently_infected": 48975,
+    "total_deaths": 41001,
+    "daily_new_deaths": 23
+  },
+  {
+    "date": "2020-07-15",
+    "total_cases": 291378,
+    "daily_new_cases": 537,
+    "currently_infected": 50094,
+    "total_deaths": 40978,
+    "daily_new_deaths": 26
+  },
+  {
+    "date": "2020-07-14",
+    "total_cases": 290841,
+    "daily_new_cases": 397,
+    "currently_infected": 51309,
+    "total_deaths": 40952,
+    "daily_new_deaths": 46
+  },
+  {
+    "date": "2020-07-13",
+    "total_cases": 290444,
+    "daily_new_cases": 529,
+    "currently_infected": 52416,
+    "total_deaths": 40906,
+    "daily_new_deaths": 8
+  },
+  {
+    "date": "2020-07-12",
+    "total_cases": 289915,
+    "daily_new_cases": 650,
+    "currently_infected": 54040,
+    "total_deaths": 40898,
+    "daily_new_deaths": 9
+  },
+  {
+    "date": "2020-07-11",
+    "total_cases": 289265,
+    "daily_new_cases": 820,
+    "currently_infected": 56005,
+    "total_deaths": 40889,
+    "daily_new_deaths": 17
+  },
+  {
+    "date": "2020-07-10",
+    "total_cases": 288445,
+    "daily_new_cases": 512,
+    "currently_infected": 58101,
+    "total_deaths": 40872,
+    "daily_new_deaths": 34
+  },
+  {
+    "date": "2020-07-09",
+    "total_cases": 287933,
+    "daily_new_cases": 643,
+    "currently_infected": 59917,
+    "total_deaths": 40838,
+    "daily_new_deaths": 32
+  },
+  {
+    "date": "2020-07-08",
+    "total_cases": 287290,
+    "daily_new_cases": 631,
+    "currently_infected": 60572,
+    "total_deaths": 40806,
+    "daily_new_deaths": 57
+  },
+  {
+    "date": "2020-07-07",
+    "total_cases": 286659,
+    "daily_new_cases": 582,
+    "currently_infected": 62069,
+    "total_deaths": 40749,
+    "daily_new_deaths": 53
+  },
+  {
+    "date": "2020-07-06",
+    "total_cases": 286077,
+    "daily_new_cases": 352,
+    "currently_infected": 63966,
+    "total_deaths": 40696,
+    "daily_new_deaths": 11
+  },
+  {
+    "date": "2020-07-05",
+    "total_cases": 285725,
+    "daily_new_cases": 517,
+    "currently_infected": 66793,
+    "total_deaths": 40685,
+    "daily_new_deaths": 19
+  },
+  {
+    "date": "2020-07-04",
+    "total_cases": 285208,
+    "daily_new_cases": 625,
+    "currently_infected": 69317,
+    "total_deaths": 40666,
+    "daily_new_deaths": 35
+  },
+  {
+    "date": "2020-07-03",
+    "total_cases": 284583,
+    "daily_new_cases": 520,
+    "currently_infected": 71819,
+    "total_deaths": 40631,
+    "daily_new_deaths": 48
+  },
+  {
+    "date": "2020-07-02",
+    "total_cases": 284063,
+    "daily_new_cases": 577,
+    "currently_infected": 74387,
+    "total_deaths": 40583,
+    "daily_new_deaths": 40
+  },
+  {
+    "date": "2020-07-01",
+    "total_cases": 283486,
+    "daily_new_cases": 750,
+    "currently_infected": 76629,
+    "total_deaths": 40543,
+    "daily_new_deaths": 99
+  },
+  {
+    "date": "2020-06-30",
+    "total_cases": 282736,
+    "daily_new_cases": 623,
+    "currently_infected": 78873,
+    "total_deaths": 40444,
+    "daily_new_deaths": 51
+  },
+  {
+    "date": "2020-06-29",
+    "total_cases": 282113,
+    "daily_new_cases": 736,
+    "currently_infected": 81766,
+    "total_deaths": 40393,
+    "daily_new_deaths": 21
+  },
+  {
+    "date": "2020-06-28",
+    "total_cases": 281377,
+    "daily_new_cases": 815,
+    "currently_infected": 84544,
+    "total_deaths": 40372,
+    "daily_new_deaths": 31
+  },
+  {
+    "date": "2020-06-27",
+    "total_cases": 280562,
+    "daily_new_cases": 805,
+    "currently_infected": 87138,
+    "total_deaths": 40341,
+    "daily_new_deaths": 40
+  },
+  {
+    "date": "2020-06-26",
+    "total_cases": 279757,
+    "daily_new_cases": 1249,
+    "currently_infected": 90332,
+    "total_deaths": 40301,
+    "daily_new_deaths": 78
+  },
+  {
+    "date": "2020-06-25",
+    "total_cases": 278508,
+    "daily_new_cases": 1011,
+    "currently_infected": 94108,
+    "total_deaths": 40223,
+    "daily_new_deaths": 102
+  },
+  {
+    "date": "2020-06-24",
+    "total_cases": 277497,
+    "daily_new_cases": 590,
+    "currently_infected": 98486,
+    "total_deaths": 40121,
+    "daily_new_deaths": 87
+  },
+  {
+    "date": "2020-06-23",
+    "total_cases": 276907,
+    "daily_new_cases": 832,
+    "currently_infected": 101738,
+    "total_deaths": 40034,
+    "daily_new_deaths": 89
+  },
+  {
+    "date": "2020-06-22",
+    "total_cases": 276075,
+    "daily_new_cases": 866,
+    "currently_infected": 104511,
+    "total_deaths": 39945,
+    "daily_new_deaths": 14
+  },
+  {
+    "date": "2020-06-21",
+    "total_cases": 275209,
+    "daily_new_cases": 1104,
+    "currently_infected": 107517,
+    "total_deaths": 39931,
+    "daily_new_deaths": 34
+  },
+  {
+    "date": "2020-06-20",
+    "total_cases": 274105,
+    "daily_new_cases": 1171,
+    "currently_infected": 110652,
+    "total_deaths": 39897,
+    "daily_new_deaths": 75
+  },
+  {
+    "date": "2020-06-19",
+    "total_cases": 272934,
+    "daily_new_cases": 1218,
+    "currently_infected": 114904,
+    "total_deaths": 39822,
+    "daily_new_deaths": 79
+  },
+  {
+    "date": "2020-06-18",
+    "total_cases": 271716,
+    "daily_new_cases": 1101,
+    "currently_infected": 118886,
+    "total_deaths": 39743,
+    "daily_new_deaths": 75
+  },
+  {
+    "date": "2020-06-17",
+    "total_cases": 270615,
+    "daily_new_cases": 1008,
+    "currently_infected": 121128,
+    "total_deaths": 39668,
+    "daily_new_deaths": 106
+  },
+  {
+    "date": "2020-06-16",
+    "total_cases": 269607,
+    "daily_new_cases": 1156,
+    "currently_infected": 123722,
+    "total_deaths": 39562,
+    "daily_new_deaths": 114
+  },
+  {
+    "date": "2020-06-15",
+    "total_cases": 268451,
+    "daily_new_cases": 875,
+    "currently_infected": 126480,
+    "total_deaths": 39448,
+    "daily_new_deaths": 30
+  },
+  {
+    "date": "2020-06-14",
+    "total_cases": 267576,
+    "daily_new_cases": 1369,
+    "currently_infected": 129293,
+    "total_deaths": 39418,
+    "daily_new_deaths": 33
+  },
+  {
+    "date": "2020-06-13",
+    "total_cases": 266207,
+    "daily_new_cases": 1289,
+    "currently_infected": 132178,
+    "total_deaths": 39385,
+    "daily_new_deaths": 104
+  },
+  {
+    "date": "2020-06-12",
+    "total_cases": 264918,
+    "daily_new_cases": 1393,
+    "currently_infected": 135564,
+    "total_deaths": 39281,
+    "daily_new_deaths": 133
+  },
+  {
+    "date": "2020-06-11",
+    "total_cases": 263525,
+    "daily_new_cases": 1145,
+    "currently_infected": 138172,
+    "total_deaths": 39148,
+    "daily_new_deaths": 82
+  },
+  {
+    "date": "2020-06-10",
+    "total_cases": 262380,
+    "daily_new_cases": 907,
+    "currently_infected": 140833,
+    "total_deaths": 39066,
+    "daily_new_deaths": 159
+  },
+  {
+    "date": "2020-06-09",
+    "total_cases": 261473,
+    "daily_new_cases": 1575,
+    "currently_infected": 143509,
+    "total_deaths": 38907,
+    "daily_new_deaths": 188
+  },
+  {
+    "date": "2020-06-08",
+    "total_cases": 259898,
+    "daily_new_cases": 1090,
+    "currently_infected": 146208,
+    "total_deaths": 38719,
+    "daily_new_deaths": 47
+  },
+  {
+    "date": "2020-06-07",
+    "total_cases": 258808,
+    "daily_new_cases": 1199,
+    "currently_infected": 150365,
+    "total_deaths": 38672,
+    "daily_new_deaths": 61
+  },
+  {
+    "date": "2020-06-06",
+    "total_cases": 257609,
+    "daily_new_cases": 1407,
+    "currently_infected": 153806,
+    "total_deaths": 38611,
+    "daily_new_deaths": 151
+  },
+  {
+    "date": "2020-06-05",
+    "total_cases": 256202,
+    "daily_new_cases": 1492,
+    "currently_infected": 157295,
+    "total_deaths": 38460,
+    "daily_new_deaths": 253
+  },
+  {
+    "date": "2020-06-04",
+    "total_cases": 254710,
+    "daily_new_cases": 1633,
+    "currently_infected": 159863,
+    "total_deaths": 38207,
+    "daily_new_deaths": 139
+  },
+  {
+    "date": "2020-06-03",
+    "total_cases": 253077,
+    "daily_new_cases": 1692,
+    "currently_infected": 162096,
+    "total_deaths": 38068,
+    "daily_new_deaths": 249
+  },
+  {
+    "date": "2020-06-02",
+    "total_cases": 251385,
+    "daily_new_cases": 1494,
+    "currently_infected": 164848,
+    "total_deaths": 37819,
+    "daily_new_deaths": 237
+  },
+  {
+    "date": "2020-06-01",
+    "total_cases": 249891,
+    "daily_new_cases": 1419,
+    "currently_infected": 167330,
+    "total_deaths": 37582,
+    "daily_new_deaths": 94
+  },
+  {
+    "date": "2020-05-31",
+    "total_cases": 248472,
+    "daily_new_cases": 1751,
+    "currently_infected": 170555,
+    "total_deaths": 37488,
+    "daily_new_deaths": 73
+  },
+  {
+    "date": "2020-05-30",
+    "total_cases": 246721,
+    "daily_new_cases": 1450,
+    "currently_infected": 173329,
+    "total_deaths": 37415,
+    "daily_new_deaths": 149
+  },
+  {
+    "date": "2020-05-29",
+    "total_cases": 245271,
+    "daily_new_cases": 1895,
+    "currently_infected": 179299,
+    "total_deaths": 37266,
+    "daily_new_deaths": 270
+  },
+  {
+    "date": "2020-05-28",
+    "total_cases": 243376,
+    "daily_new_cases": 1707,
+    "currently_infected": 181117,
+    "total_deaths": 36996,
+    "daily_new_deaths": 345
+  },
+  {
+    "date": "2020-05-27",
+    "total_cases": 241669,
+    "daily_new_cases": 1820,
+    "currently_infected": 184118,
+    "total_deaths": 36651,
+    "daily_new_deaths": 426
+  },
+  {
+    "date": "2020-05-26",
+    "total_cases": 239849,
+    "daily_new_cases": 1812,
+    "currently_infected": 185341,
+    "total_deaths": 36225,
+    "daily_new_deaths": 124
+  },
+  {
+    "date": "2020-05-25",
+    "total_cases": 238037,
+    "daily_new_cases": 1469,
+    "currently_infected": 186819,
+    "total_deaths": 36101,
+    "daily_new_deaths": 103
+  },
+  {
+    "date": "2020-05-24",
+    "total_cases": 236568,
+    "daily_new_cases": 2175,
+    "currently_infected": 190510,
+    "total_deaths": 35998,
+    "daily_new_deaths": 387
+  },
+  {
+    "date": "2020-05-23",
+    "total_cases": 234393,
+    "daily_new_cases": 2676,
+    "currently_infected": 191519,
+    "total_deaths": 35611,
+    "daily_new_deaths": 230
+  },
+  {
+    "date": "2020-05-22",
+    "total_cases": 231717,
+    "daily_new_cases": 2973,
+    "currently_infected": 192396,
+    "total_deaths": 35381,
+    "daily_new_deaths": 308
+  },
+  {
+    "date": "2020-05-21",
+    "total_cases": 228744,
+    "daily_new_cases": 2365,
+    "currently_infected": 193327,
+    "total_deaths": 35073,
+    "daily_new_deaths": 284
+  },
+  {
+    "date": "2020-05-20",
+    "total_cases": 226379,
+    "daily_new_cases": 1369,
+    "currently_infected": 191246,
+    "total_deaths": 34789,
+    "daily_new_deaths": 309
+  },
+  {
+    "date": "2020-05-19",
+    "total_cases": 225010,
+    "daily_new_cases": 2181,
+    "currently_infected": 190186,
+    "total_deaths": 34480,
+    "daily_new_deaths": 473
+  },
+  {
+    "date": "2020-05-18",
+    "total_cases": 222829,
+    "daily_new_cases": 2451,
+    "currently_infected": 188478,
+    "total_deaths": 34007,
+    "daily_new_deaths": 150
+  },
+  {
+    "date": "2020-05-17",
+    "total_cases": 220378,
+    "daily_new_cases": 3195,
+    "currently_infected": 186177,
+    "total_deaths": 33857,
+    "daily_new_deaths": 100
+  },
+  {
+    "date": "2020-05-16",
+    "total_cases": 217183,
+    "daily_new_cases": 3120,
+    "currently_infected": 183082,
+    "total_deaths": 33757,
+    "daily_new_deaths": 428
+  },
+  {
+    "date": "2020-05-15",
+    "total_cases": 214063,
+    "daily_new_cases": 3219,
+    "currently_infected": 180390,
+    "total_deaths": 33329,
+    "daily_new_deaths": 328
+  },
+  {
+    "date": "2020-05-14",
+    "total_cases": 210844,
+    "daily_new_cases": 3116,
+    "currently_infected": 177499,
+    "total_deaths": 33001,
+    "daily_new_deaths": 377
+  },
+  {
+    "date": "2020-05-13",
+    "total_cases": 207728,
+    "daily_new_cases": 2933,
+    "currently_infected": 174760,
+    "total_deaths": 32624,
+    "daily_new_deaths": 444
+  },
+  {
+    "date": "2020-05-12",
+    "total_cases": 204795,
+    "daily_new_cases": 3077,
+    "currently_infected": 172271,
+    "total_deaths": 32180,
+    "daily_new_deaths": 564
+  },
+  {
+    "date": "2020-05-11",
+    "total_cases": 201718,
+    "daily_new_cases": 3506,
+    "currently_infected": 169758,
+    "total_deaths": 31616,
+    "daily_new_deaths": 194
+  },
+  {
+    "date": "2020-05-10",
+    "total_cases": 198212,
+    "daily_new_cases": 3547,
+    "currently_infected": 166446,
+    "total_deaths": 31422,
+    "daily_new_deaths": 241
+  },
+  {
+    "date": "2020-05-09",
+    "total_cases": 194665,
+    "daily_new_cases": 3523,
+    "currently_infected": 163140,
+    "total_deaths": 31181,
+    "daily_new_deaths": 289
+  },
+  {
+    "date": "2020-05-08",
+    "total_cases": 191142,
+    "daily_new_cases": 4204,
+    "currently_infected": 159906,
+    "total_deaths": 30892,
+    "daily_new_deaths": 590
+  },
+  {
+    "date": "2020-05-07",
+    "total_cases": 186938,
+    "daily_new_cases": 5077,
+    "currently_infected": 156292,
+    "total_deaths": 30302,
+    "daily_new_deaths": 493
+  },
+  {
+    "date": "2020-05-06",
+    "total_cases": 181861,
+    "daily_new_cases": 5526,
+    "currently_infected": 151708,
+    "total_deaths": 29809,
+    "daily_new_deaths": 612
+  },
+  {
+    "date": "2020-05-05",
+    "total_cases": 176335,
+    "daily_new_cases": 3985,
+    "currently_infected": 146794,
+    "total_deaths": 29197,
+    "daily_new_deaths": 677
+  },
+  {
+    "date": "2020-05-04",
+    "total_cases": 172350,
+    "daily_new_cases": 3603,
+    "currently_infected": 143486,
+    "total_deaths": 28520,
+    "daily_new_deaths": 278
+  },
+  {
+    "date": "2020-05-03",
+    "total_cases": 168747,
+    "daily_new_cases": 3924,
+    "currently_infected": 140161,
+    "total_deaths": 28242,
+    "daily_new_deaths": 291
+  },
+  {
+    "date": "2020-05-02",
+    "total_cases": 164823,
+    "daily_new_cases": 4346,
+    "currently_infected": 136528,
+    "total_deaths": 27951,
+    "daily_new_deaths": 588
+  },
+  {
+    "date": "2020-05-01",
+    "total_cases": 160477,
+    "daily_new_cases": 5608,
+    "currently_infected": 132770,
+    "total_deaths": 27363,
+    "daily_new_deaths": 710
+  },
+  {
+    "date": "2020-04-30",
+    "total_cases": 154869,
+    "daily_new_cases": 5455,
+    "currently_infected": 127872,
+    "total_deaths": 26653,
+    "daily_new_deaths": 658
+  },
+  {
+    "date": "2020-04-29",
+    "total_cases": 149414,
+    "daily_new_cases": 3686,
+    "currently_infected": 123075,
+    "total_deaths": 25995,
+    "daily_new_deaths": 768
+  },
+  {
+    "date": "2020-04-28",
+    "total_cases": 145728,
+    "daily_new_cases": 3613,
+    "currently_infected": 120157,
+    "total_deaths": 25227,
+    "daily_new_deaths": 903
+  },
+  {
+    "date": "2020-04-27",
+    "total_cases": 142115,
+    "daily_new_cases": 3896,
+    "currently_infected": 117447,
+    "total_deaths": 24324,
+    "daily_new_deaths": 320
+  },
+  {
+    "date": "2020-04-26",
+    "total_cases": 138219,
+    "daily_new_cases": 4037,
+    "currently_infected": 113871,
+    "total_deaths": 24004,
+    "daily_new_deaths": 405
+  },
+  {
+    "date": "2020-04-25",
+    "total_cases": 134182,
+    "daily_new_cases": 4443,
+    "currently_infected": 110239,
+    "total_deaths": 23599,
+    "daily_new_deaths": 832
+  },
+  {
+    "date": "2020-04-24",
+    "total_cases": 129739,
+    "daily_new_cases": 4870,
+    "currently_infected": 106628,
+    "total_deaths": 22767,
+    "daily_new_deaths": 1003
+  },
+  {
+    "date": "2020-04-23",
+    "total_cases": 124869,
+    "daily_new_cases": 4144,
+    "currently_infected": 102761,
+    "total_deaths": 21764,
+    "daily_new_deaths": 719
+  },
+  {
+    "date": "2020-04-22",
+    "total_cases": 120725,
+    "daily_new_cases": 4026,
+    "currently_infected": 99336,
+    "total_deaths": 21045,
+    "daily_new_deaths": 824
+  },
+  {
+    "date": "2020-04-21",
+    "total_cases": 116699,
+    "daily_new_cases": 3889,
+    "currently_infected": 96134,
+    "total_deaths": 20221,
+    "daily_new_deaths": 1168
+  },
+  {
+    "date": "2020-04-20",
+    "total_cases": 112810,
+    "daily_new_cases": 4228,
+    "currently_infected": 93413,
+    "total_deaths": 19053,
+    "daily_new_deaths": 557
+  },
+  {
+    "date": "2020-04-19",
+    "total_cases": 108582,
+    "daily_new_cases": 5290,
+    "currently_infected": 89742,
+    "total_deaths": 18496,
+    "daily_new_deaths": 495
+  },
+  {
+    "date": "2020-04-18",
+    "total_cases": 103292,
+    "daily_new_cases": 4997,
+    "currently_infected": 84947,
+    "total_deaths": 18001,
+    "daily_new_deaths": 1110
+  },
+  {
+    "date": "2020-04-17",
+    "total_cases": 98295,
+    "daily_new_cases": 5064,
+    "currently_infected": 81060,
+    "total_deaths": 16891,
+    "daily_new_deaths": 936
+  },
+  {
+    "date": "2020-04-16",
+    "total_cases": 93231,
+    "daily_new_cases": 4175,
+    "currently_infected": 76932,
+    "total_deaths": 15955,
+    "daily_new_deaths": 1030
+  },
+  {
+    "date": "2020-04-15",
+    "total_cases": 89056,
+    "daily_new_cases": 4162,
+    "currently_infected": 73787,
+    "total_deaths": 14925,
+    "daily_new_deaths": 841
+  },
+  {
+    "date": "2020-04-14",
+    "total_cases": 84894,
+    "daily_new_cases": 4749,
+    "currently_infected": 70466,
+    "total_deaths": 14084,
+    "daily_new_deaths": 1043
+  },
+  {
+    "date": "2020-04-13",
+    "total_cases": 80145,
+    "daily_new_cases": 3926,
+    "currently_infected": 66760,
+    "total_deaths": 13041,
+    "daily_new_deaths": 745
+  },
+  {
+    "date": "2020-04-12",
+    "total_cases": 76219,
+    "daily_new_cases": 4782,
+    "currently_infected": 63579,
+    "total_deaths": 12296,
+    "daily_new_deaths": 685
+  },
+  {
+    "date": "2020-04-11",
+    "total_cases": 71437,
+    "daily_new_cases": 4732,
+    "currently_infected": 59482,
+    "total_deaths": 11611,
+    "daily_new_deaths": 840
+  },
+  {
+    "date": "2020-04-10",
+    "total_cases": 66705,
+    "daily_new_cases": 7846,
+    "currently_infected": 55590,
+    "total_deaths": 10771,
+    "daily_new_deaths": 1151
+  },
+  {
+    "date": "2020-04-09",
+    "total_cases": 58859,
+    "daily_new_cases": 3928,
+    "currently_infected": 49104,
+    "total_deaths": 9620,
+    "daily_new_deaths": 1108
+  },
+  {
+    "date": "2020-04-08",
+    "total_cases": 54931,
+    "daily_new_cases": 4965,
+    "currently_infected": 46284,
+    "total_deaths": 8512,
+    "daily_new_deaths": 1034
+  },
+  {
+    "date": "2020-04-07",
+    "total_cases": 49966,
+    "daily_new_cases": 3287,
+    "currently_infected": 42353,
+    "total_deaths": 7478,
+    "daily_new_deaths": 1039
+  },
+  {
+    "date": "2020-04-06",
+    "total_cases": 46679,
+    "daily_new_cases": 3438,
+    "currently_infected": 40105,
+    "total_deaths": 6439,
+    "daily_new_deaths": 568
+  },
+  {
+    "date": "2020-04-05",
+    "total_cases": 43241,
+    "daily_new_cases": 5338,
+    "currently_infected": 37235,
+    "total_deaths": 5871,
+    "daily_new_deaths": 645
+  },
+  {
+    "date": "2020-04-04",
+    "total_cases": 37903,
+    "daily_new_cases": 3378,
+    "currently_infected": 32542,
+    "total_deaths": 5226,
+    "daily_new_deaths": 761
+  },
+  {
+    "date": "2020-04-03",
+    "total_cases": 34525,
+    "daily_new_cases": 4025,
+    "currently_infected": 29925,
+    "total_deaths": 4465,
+    "daily_new_deaths": 735
+  },
+  {
+    "date": "2020-04-02",
+    "total_cases": 30500,
+    "daily_new_cases": 3838,
+    "currently_infected": 26635,
+    "total_deaths": 3730,
+    "daily_new_deaths": 641
+  },
+  {
+    "date": "2020-04-01",
+    "total_cases": 26662,
+    "daily_new_cases": 3910,
+    "currently_infected": 23438,
+    "total_deaths": 3089,
+    "daily_new_deaths": 662
+  },
+  {
+    "date": "2020-03-31",
+    "total_cases": 22752,
+    "daily_new_cases": 2721,
+    "currently_infected": 20190,
+    "total_deaths": 2427,
+    "daily_new_deaths": 383
+  },
+  {
+    "date": "2020-03-30",
+    "total_cases": 20031,
+    "daily_new_cases": 2369,
+    "currently_infected": 17852,
+    "total_deaths": 2044,
+    "daily_new_deaths": 375
+  },
+  {
+    "date": "2020-03-29",
+    "total_cases": 17662,
+    "daily_new_cases": 2200,
+    "currently_infected": 15858,
+    "total_deaths": 1669,
+    "daily_new_deaths": 214
+  },
+  {
+    "date": "2020-03-28",
+    "total_cases": 15462,
+    "daily_new_cases": 2303,
+    "currently_infected": 13872,
+    "total_deaths": 1455,
+    "daily_new_deaths": 294
+  },
+  {
+    "date": "2020-03-27",
+    "total_cases": 13159,
+    "daily_new_cases": 2609,
+    "currently_infected": 11863,
+    "total_deaths": 1161,
+    "daily_new_deaths": 283
+  },
+  {
+    "date": "2020-03-26",
+    "total_cases": 10550,
+    "daily_new_cases": 1925,
+    "currently_infected": 9537,
+    "total_deaths": 878,
+    "daily_new_deaths": 226
+  },
+  {
+    "date": "2020-03-25",
+    "total_cases": 8625,
+    "daily_new_cases": 1314,
+    "currently_infected": 7838,
+    "total_deaths": 652,
+    "daily_new_deaths": 178
+  },
+  {
+    "date": "2020-03-24",
+    "total_cases": 7311,
+    "daily_new_cases": 1291,
+    "currently_infected": 6702,
+    "total_deaths": 474,
+    "daily_new_deaths": 143
+  },
+  {
+    "date": "2020-03-23",
+    "total_cases": 6020,
+    "daily_new_cases": 875,
+    "currently_infected": 5554,
+    "total_deaths": 331,
+    "daily_new_deaths": 67
+  },
+  {
+    "date": "2020-03-22",
+    "total_cases": 5145,
+    "daily_new_cases": 602,
+    "currently_infected": 4788,
+    "total_deaths": 264,
+    "daily_new_deaths": 24
+  },
+  {
+    "date": "2020-03-21",
+    "total_cases": 4543,
+    "daily_new_cases": 936,
+    "currently_infected": 4210,
+    "total_deaths": 240,
+    "daily_new_deaths": 54
+  },
+  {
+    "date": "2020-03-20",
+    "total_cases": 3607,
+    "daily_new_cases": 646,
+    "currently_infected": 3356,
+    "total_deaths": 186,
+    "daily_new_deaths": 32
+  },
+  {
+    "date": "2020-03-19",
+    "total_cases": 2961,
+    "daily_new_cases": 582,
+    "currently_infected": 2742,
+    "total_deaths": 154,
+    "daily_new_deaths": 42
+  },
+  {
+    "date": "2020-03-18",
+    "total_cases": 2379,
+    "daily_new_cases": 612,
+    "currently_infected": 2202,
+    "total_deaths": 112,
+    "daily_new_deaths": 33
+  },
+  {
+    "date": "2020-03-17",
+    "total_cases": 1767,
+    "daily_new_cases": 368,
+    "currently_infected": 1623,
+    "total_deaths": 79,
+    "daily_new_deaths": 15
+  },
+  {
+    "date": "2020-03-16",
+    "total_cases": 1399,
+    "daily_new_cases": 137,
+    "currently_infected": 1283,
+    "total_deaths": 64,
+    "daily_new_deaths": 22
+  },
+  {
+    "date": "2020-03-15",
+    "total_cases": 1262,
+    "daily_new_cases": 228,
+    "currently_infected": 1200,
+    "total_deaths": 42,
+    "daily_new_deaths": 14
+  },
+  {
+    "date": "2020-03-14",
+    "total_cases": 1034,
+    "daily_new_cases": 309,
+    "currently_infected": 988,
+    "total_deaths": 28,
+    "daily_new_deaths": 18
+  },
+  {
+    "date": "2020-03-13",
+    "total_cases": 725,
+    "daily_new_cases": 189,
+    "currently_infected": 697,
+    "total_deaths": 10,
+    "daily_new_deaths": 1
+  },
+  {
+    "date": "2020-03-12",
+    "total_cases": 536,
+    "daily_new_cases": 117,
+    "currently_infected": 509,
+    "total_deaths": 9,
+    "daily_new_deaths": 2
+  },
+  {
+    "date": "2020-03-11",
+    "total_cases": 419,
+    "daily_new_cases": 70,
+    "currently_infected": 394,
+    "total_deaths": 7,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "total_cases": 349,
+    "daily_new_cases": 56,
+    "currently_infected": 324,
+    "total_deaths": 7,
+    "daily_new_deaths": 4
+  },
+  {
+    "date": "2020-03-09",
+    "total_cases": 293,
+    "daily_new_cases": 39,
+    "currently_infected": 272,
+    "total_deaths": 3,
+    "daily_new_deaths": 1
+  },
+  {
+    "date": "2020-03-08",
+    "total_cases": 254,
+    "daily_new_cases": 62,
+    "currently_infected": 234,
+    "total_deaths": 2,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "total_cases": 192,
+    "daily_new_cases": 41,
+    "currently_infected": 172,
+    "total_deaths": 2,
+    "daily_new_deaths": 1
+  },
+  {
+    "date": "2020-03-06",
+    "total_cases": 151,
+    "daily_new_cases": 43,
+    "currently_infected": 132,
+    "total_deaths": 1,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-03-05",
+    "total_cases": 108,
+    "daily_new_cases": 26,
+    "currently_infected": 89,
+    "total_deaths": 1,
+    "daily_new_deaths": 1
+  },
+  {
+    "date": "2020-03-04",
+    "total_cases": 82,
+    "daily_new_cases": 33,
+    "currently_infected": 74,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-03-03",
+    "total_cases": 49,
+    "daily_new_cases": 11,
+    "currently_infected": 41,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-03-02",
+    "total_cases": 38,
+    "daily_new_cases": 3,
+    "currently_infected": 30,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-03-01",
+    "total_cases": 35,
+    "daily_new_cases": 12,
+    "currently_infected": 27,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-29",
+    "total_cases": 23,
+    "daily_new_cases": 3,
+    "currently_infected": 15,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-28",
+    "total_cases": 20,
+    "daily_new_cases": 4,
+    "currently_infected": 12,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-27",
+    "total_cases": 16,
+    "daily_new_cases": 3,
+    "currently_infected": 8,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-26",
+    "total_cases": 13,
+    "daily_new_cases": 0,
+    "currently_infected": 5,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-25",
+    "total_cases": 13,
+    "daily_new_cases": 0,
+    "currently_infected": 5,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-24",
+    "total_cases": 13,
+    "daily_new_cases": 0,
+    "currently_infected": 5,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-23",
+    "total_cases": 13,
+    "daily_new_cases": 4,
+    "currently_infected": 5,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-22",
+    "total_cases": 9,
+    "daily_new_cases": 0,
+    "currently_infected": 1,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-21",
+    "total_cases": 9,
+    "daily_new_cases": 0,
+    "currently_infected": 1,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-20",
+    "total_cases": 9,
+    "daily_new_cases": 0,
+    "currently_infected": 1,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-19",
+    "total_cases": 9,
+    "daily_new_cases": 0,
+    "currently_infected": 1,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-18",
+    "total_cases": 9,
+    "daily_new_cases": 0,
+    "currently_infected": 1,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-17",
+    "total_cases": 9,
+    "daily_new_cases": 0,
+    "currently_infected": 1,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-16",
+    "total_cases": 9,
+    "daily_new_cases": 0,
+    "currently_infected": 1,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  },
+  {
+    "date": "2020-02-15",
+    "total_cases": 9,
+    "daily_new_cases": 0,
+    "currently_infected": 1,
+    "total_deaths": 0,
+    "daily_new_deaths": 0
+  }
+]

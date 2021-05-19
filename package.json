@@ -1,0 +1,11 @@
+{
+  "name": "random-notebooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:maludwig/random-notebooks.git",
+  "author": "Mitchell Ludwig <mitchell.ludwig@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "luxon": "^1.27.0"
+  }
+}
